@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CF on ER Andrinopoulou</title>
+    <link>/./tags/cf/</link>
+    <description>Recent content in CF on ER Andrinopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/./tags/cf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multivariate joint modeling characterizes how markers of growth and lung function decline predict cystic fibrosis pulmonary exacerbation onset.</title>
+      <link>/./project/cff/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/./project/cff/</guid>
+      <description>&lt;p&gt;Active collaboration with Dr. Rhonda Szczesniak, Department of Biostatistics Epidemiology and the department of Pulmonary Medicine at Cincinnati Children&amp;rsquo;s Hospital Medical Center (CCHMC), Cincinnati,
+United States.&lt;/p&gt;
+
+&lt;p&gt;Objectives: To fit a univariate joint model (JM) of lung-function decline and pulmonary exacerbation (PE) onset and contrast its predictive performance with a class of multivariate JMs that include combinations of growth markers as additional submodels.&lt;/p&gt;
+
+&lt;p&gt;Study Design and Setting: Longitudinal cohort study on 17,100 patients aged 6-20 years (US CF Registry; 2003-2015). Primary outcomes included longitudinal lung function (FEV1), BMI, weight-for-age and height-for-age percentiles and onset of PE. Relevant demographic/clinical covariates were included in each submodel. We implemented a joint model of FEV1 and time-to-PE and four multivariate JMs including growth outcomes.&lt;br /&gt;
+Results: All five JMs indicated a negative association between FEV1 and hazard of PE onset (HR from univariate joint model: 0.97, P &amp;lt; 0.0001), and all had reasonable predictive accuracy (AUC &amp;gt; 0.70 for cross-validations). Jointly modeling only FEV1 and PE onset yielded the most accurate (AUC = 0.75) and precise predictions (narrowest IQR from cross-validations). Dynamic predictions were accurate across forecast horizons (0.5-, 1-, and 2-years) but precision improved with age.&lt;/p&gt;
+
+&lt;p&gt;Conclusion: Including growth markers via multivariate JMs did not yield gains in prediction performance but joint modeling is a useful approach for monitoring CF disease progression.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+---
+abstract: 
+authors:
+- admin
+- Paul H. C. Eilers  
+- Johanna J. M. Takkenberg  
+- Dimitris Rizopoulos
+date: "2015-09-01T00:00:00Z"
+doi: "10.1111/biom.12814"
+featured: false
+
+projects: []
+publication: '*Biometrics, 1*(1)'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "01 November 2017"
+summary: 
+tags:
+- Source Themes
+title: Improved dynamic predictions from joint models of longitudinal and survival data with time-varying effects using P-splines.
+url_code: ""
+url_dataset: ""
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/29092100
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
+
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
