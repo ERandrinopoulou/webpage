@@ -42,5 +42,5 @@ user_groups:
 ---
 
 
-I am an assistant professor in Biostatistics at Erasmus MC and my research interests involve the development of theory and applications in modelling multiple outcomes (longitudinal and/or survival), as well as working with applied biostatisticians and clinical investigators to ensure their use in real biomedical applications. 
+I am an assistant professor in Biostatistics and my research interests involve the development of theory and applications in modelling multiple outcomes (longitudinal and/or survival), as well as working with applied biostatisticians and clinical investigators to ensure their use in real biomedical applications. 
 
