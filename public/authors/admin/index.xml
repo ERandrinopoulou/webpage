@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ER Andrinopoulou</title>
-    <link>/./authors/admin/</link>
+    <link>/authors/admin/</link>
     <description>Recent content on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/./authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/./post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/./post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -76,37 +76,37 @@ rm Untitled.md
     
     <item>
       <title>Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes.</title>
-      <link>/./publication/jmlatentclasses/</link>
+      <link>/publication/jmlatentclasses/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/jmlatentclasses/</guid>
+      <guid>/publication/jmlatentclasses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved dynamic predictions from joint models of longitudinal and survival data with time-varying effects using P-splines.</title>
-      <link>/./publication/improveddyn/</link>
+      <link>/publication/improveddyn/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/improveddyn/</guid>
+      <guid>/publication/improveddyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian shrinkage approach for a joint model of longitudinal and survival outcomes assuming different association structures.</title>
-      <link>/./publication/shinkjm/</link>
+      <link>/publication/shinkjm/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/shinkjm/</guid>
+      <guid>/publication/shinkjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/./post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/./post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -199,8 +199,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -226,8 +226,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -253,8 +253,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -280,8 +280,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -307,8 +307,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -334,8 +334,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -361,8 +361,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -388,8 +388,8 @@ rm Untitled.md
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/./post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/./post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -432,28 +432,28 @@ rm Untitled.md
     
     <item>
       <title>Combined dynamic predictions using joint models of two longitudinal outcomes and competing risk data.</title>
-      <link>/./publication/combinedynpredjm/</link>
+      <link>/publication/combinedynpredjm/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/combinedynpredjm/</guid>
+      <guid>/publication/combinedynpredjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint modeling of two longitudinal outcomes and competing risk data.</title>
-      <link>/./publication/jmordinalcompetingrisks/</link>
+      <link>/publication/jmordinalcompetingrisks/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/jmordinalcompetingrisks/</guid>
+      <guid>/publication/jmordinalcompetingrisks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An introduction to mixed models and joint modeling: analysis of valve function over time.</title>
-      <link>/./publication/introjm/</link>
+      <link>/publication/introjm/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/./publication/introjm/</guid>
+      <guid>/publication/introjm/</guid>
       <description>
 
 &lt;h1 id=&#34;div-class-alert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
@@ -469,11 +469,11 @@ rm Untitled.md
     
     <item>
       <title></title>
-      <link>/./authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/./authors/admin/</guid>
-      <description>&lt;p&gt;I am an assistant professor in Biostatistics and my research interests involve the development of theory and applications in modelling multiple outcomes (longitudinal and/or survival), as well as working with applied biostatisticians and clinical investigators to ensure their use in real biomedical applications.&lt;/p&gt;
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an assistant professor in Biostatistics at Erasmus MC and my research interests involve the development of theory and applications in modelling multiple outcomes (longitudinal and/or survival), as well as working with applied biostatisticians and clinical investigators to ensure their use in real biomedical applications.&lt;/p&gt;
 </description>
     </item>
     

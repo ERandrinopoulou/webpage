@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ER Andrinopoulou</title>
-    <link>/./tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/./tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CF</title>
-      <link>/./tags/cf/</link>
+      <link>/tags/cf/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/./tags/cf/</guid>
+      <guid>/tags/cf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARAT</title>
-      <link>/./tags/arat/</link>
+      <link>/tags/arat/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/./tags/arat/</guid>
+      <guid>/tags/arat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>/./tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/./tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/./tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/./tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/./tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/./tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/./tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/./tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/./tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/./tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     

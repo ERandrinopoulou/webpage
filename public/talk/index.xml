@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on ER Andrinopoulou</title>
-    <link>/./talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/./talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data</title>
-      <link>/./talk/risk-indicators-in-clinical-practice-with-jm/</link>
+      <link>/talk/risk-indicators-in-clinical-practice-with-jm/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/./talk/risk-indicators-in-clinical-practice-with-jm/</guid>
+      <guid>/talk/risk-indicators-in-clinical-practice-with-jm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Predictions of Visual Acuity in Uveitis</title>
-      <link>/./talk/lc-mixed-model-uveitis/</link>
+      <link>/talk/lc-mixed-model-uveitis/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/./talk/lc-mixed-model-uveitis/</guid>
+      <guid>/talk/lc-mixed-model-uveitis/</guid>
       <description></description>
     </item>
     
