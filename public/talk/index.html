@@ -416,8 +416,6 @@
 
 
 
-
-  
   
   
 
@@ -428,41 +426,49 @@
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
+<div class="card-simple" itemscope itemtype="http://schema.org/Event">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/lc-mixed-model-arat/" itemprop="url">Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model</a>
-    </h3>
-
+  
+  <div class="article-metadata">
     
-    <div class="article-style" itemprop="articleBody">
-      <p>Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation …</p>
-    </div>
+    <span itemprop="startDate">
+      
+      Jul 16, 2019
+      
+    </span>
     
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Jul 16, 2019
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">Leuven, Belgium</span>
-        
-      </div>
-      
-
-      
-    </div>
-
+    <span class="middot-divider"></span>
+    <span itemprop="location">Leuven, Belgium</span>
     
-    <div class="btn-links">
-      
+  </div>
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="/talk/lc-mixed-model-arat/" itemprop="url">Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody">
+    <p>Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.</p>
+
+<p>Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.</p>
+
+<p>We, first, take into account that most of the covariates are time-dependent and measured with error.  Secondly, patients can be categorized in sub-groups that exhibit different progression rates, that is no recovery, full recovery, and middle recovery.  We propose a Bayesian latent class multivariate mixed-effects models to obtain individualized dynamic predictions of ARAT. We focus on how to quantify and evaluate those predictions. In particular, to quantify the accuracy of the predictions we will investigate different proper scoring rules. To evaluate those predictions we will use an internal validation procedure, where correct estimates of the proper scoring rules will be obtained using Bootstrap.</p>
+
+<p>A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.</p>
+
+<p>Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.</p>
+
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -499,14 +505,9 @@
 
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
             
@@ -530,8 +531,6 @@
 
 
 
-
-  
   
   
 
@@ -542,41 +541,40 @@
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
+<div class="card-simple" itemscope itemtype="http://schema.org/Event">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/risk-indicators-in-clinical-practice-with-jm/" itemprop="url">Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data</a>
-    </h3>
-
+  
+  <div class="article-metadata">
     
-    <div class="article-style" itemprop="articleBody">
-      Studies in life course epidemiology often involve different types of outcomes and exposures being collected on individuals, who are …
-    </div>
+    <span itemprop="startDate">
+      
+      Sep 21, 2018
+      
+    </span>
     
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Sep 21, 2018
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">Cincinnati, USA</span>
-        
-      </div>
-      
-
-      
-    </div>
-
+    <span class="middot-divider"></span>
+    <span itemprop="location">Cincinnati, USA</span>
     
-    <div class="btn-links">
-      
+  </div>
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="/talk/risk-indicators-in-clinical-practice-with-jm/" itemprop="url">Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody">
+    Studies in life course epidemiology often involve different types of outcomes and exposures being collected on individuals, who are followed over time. The data include longitudinally measured responses (e.g., biomarkers), and the time until an event of interest occurs (e.g., death, intervention). In many epidemiologic studies, these outcomes are separately analysed, although it may be of public health interest to study their association while including key exposures. To that end, it is desirable to employ methods that examine the associations of exposures with longitudinal measurement outcomes simultaneously. This method is referred in the statistical literature as joint modelling of longitudinal and survival data. The idea behind joint modelling of longitudinal and survival data is usually to couple linear mixed effects models for longitudinal measurement outcomes and Cox models for censored survival outcomes. Recent extensions of these models motivated by real-life applications, including shrinkage approaches, time-varying effects and latent classes, will be presented.  Furthermore, subject-specific dynamic risk predictions based on the joint modelling framework will be illustrated.
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -613,14 +611,9 @@
 
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
             
@@ -633,8 +626,6 @@
 
 
 
-
-  
   
   
 
@@ -645,41 +636,45 @@
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
-  <div class="media-body">
+<div class="card-simple" itemscope itemtype="http://schema.org/Event">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/lc-mixed-model-uveitis/" itemprop="url">Dynamic Predictions of Visual Acuity in Uveitis</a>
-    </h3>
-
+  
+  <div class="article-metadata">
     
-    <div class="article-style" itemprop="articleBody">
-      <p>Uveitis is the inflammation (INF) of the uveal tract, i.e. the inner eye, and leads to reduction of visual acuity (VA). In contrast to …</p>
-    </div>
+    <span itemprop="startDate">
+      
+      Jul 12, 2018
+      
+    </span>
     
-
-    <div class="stream-meta article-metadata">
-
-      
-      <div>
-        <span itemprop="startDate">
-          
-          Jul 12, 2018
-          
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span itemprop="location">Barcelona, Spain</span>
-        
-      </div>
-      
-
-      
-    </div>
-
+    <span class="middot-divider"></span>
+    <span itemprop="location">Barcelona, Spain</span>
     
-    <div class="btn-links">
-      
+  </div>
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="/talk/lc-mixed-model-uveitis/" itemprop="url">Dynamic Predictions of Visual Acuity in Uveitis</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody">
+    <p>Uveitis is the inflammation (INF) of the uveal tract, i.e. the inner eye, and leads to reduction of visual acuity (VA). In contrast to other eye diseases that affect mostly elderly patients, uveitis affects young patients. Therefore, it is the leading cause of legal blindness in the working age population in the western world. Physicians utilize different types of information to predict patient VA outcome. This includes longitudinal data, such as INF, complication (COM) and other patients characteristics.</p>
+
+<p>A popular framework to analyze outcomes measured over time is the multivariate mixed-effects model. We aim to obtain individualized dynamic predictions of VA using all available patient information and accounting for the special features of the data set. In particular, the first challenge is to take into account that patients can be categorized in sub-groups that exhibit different progression rates for high, blind and moderate VA. Furthermore, the longitudinal outcomes can be connected 1) via random effects and 2) via association parameters between them.  A characteristic of longitudinal data, such as INF and COM, is that several features of these variables could be associated with VA (underlying value, slope, area under the curve). This could lead to a large number of parameters that need to be estimated. Therefore, the second challenge is to identify an appropriate set of predictors for the outcome of interest VA.</p>
+
+<p>We propose a latent class multivariate mixed model to identify different sub-groups of patients and we compare two popular approaches that deal with variable/model selection: 1) a Bayesian shrinkage approach, where both INF and COM are included in the VA prediction model, and 2) Bayesian model averaging where INF and COM are included separately in the VA model. The two approaches are compared using a cross-validation procedure for model evaluation. Prediction accuracy is deemed acceptable when the difference between the predicted and the observed value is considered to have a non-detectable visual change for the patients. The motivation comes from a study of 365 uveitis patients with a mean age of 44. These patients visited the Rotterdam Eye Hospital in the period from 2000 to 2014.</p>
+
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -716,14 +711,9 @@
 
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
 </div>
 
             
