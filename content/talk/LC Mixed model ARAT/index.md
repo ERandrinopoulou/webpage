@@ -11,8 +11,7 @@ We, first, take into account that most of the covariates are time-dependent and 
 A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.
 
 
-Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.
-"
+Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential."
  
 all_day: true
 authors: []
