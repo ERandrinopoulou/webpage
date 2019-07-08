@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model</title>
+      <link>/talk/lc-mixed-model-arat/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/lc-mixed-model-arat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data</title>

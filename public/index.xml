@@ -6,7 +6,7 @@
     <description>Recent content on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model</title>
+      <link>/talk/lc-mixed-model-arat/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/lc-mixed-model-arat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multivariate joint modeling characterizes how markers of growth and lung function decline predict cystic fibrosis pulmonary exacerbation onset.</title>
       <link>/project/cff/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
@@ -119,7 +128,9 @@ Results: All five JMs indicated a negative association between FEV1 and hazard o
 
 &lt;p&gt;Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.&lt;/p&gt;
 
-&lt;p&gt;A interactive interface is created so that the treated physician can obtain dynamice predictions (&lt;a href=&#34;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&lt;/a&gt;). This interactive interface is based on a univariate linear mixed model. Work in progress: extend the app to accommodate multivariate latent class mixed model.&lt;/p&gt;
+&lt;p&gt;An interactive interface is created so that the treated physician can obtain dynamic predictions (&lt;a href=&#34;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&lt;/a&gt;). This interactive interface is based on a univariate linear mixed model. An overview of this project can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&lt;/a&gt; and the results of the cross-validation can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Work in progress: extend the app to accommodate multivariate latent class mixed model.&lt;/p&gt;
 </description>
     </item>
     

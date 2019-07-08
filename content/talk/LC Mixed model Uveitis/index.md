@@ -25,7 +25,7 @@ location: Barcelona, Spain
 # - internal-project
 # publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: "We propose a latent class multivariate mixed model." 
+summary: "" 
 #tags: []
 title: Dynamic Predictions of Visual Acuity in Uveitis
 #url_code: ""

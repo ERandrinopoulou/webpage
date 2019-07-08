@@ -19,7 +19,7 @@ location: Cincinnati, USA
 # - internal-project
 # publishDate: "2018-09-21"
 slides: 
-summary: "Extensions on joint model of longitudinal and survival data." 
+summary: "" 
 #tags: []
 title: Assessing Risk Indicators in Clinical Practice with Joint Models of Longitudinal and Time-to-Event Data
 #url_code: ""

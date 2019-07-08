@@ -28,10 +28,18 @@
   
     
   
-  <meta name="description" content="&lt;i&gt;Arxiv, 2018 &lt;/i&gt;">
+  <meta name="description" content="Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.
+
+Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.
+
+We, first, take into account that most of the covariates are time-dependent and measured with error.  Secondly, patients can be categorized in sub-groups that exhibit different progression rates, that is no recovery, full recovery, and middle recovery.  We propose a Bayesian latent class multivariate mixed-effects models to obtain individualized dynamic predictions of ARAT. We focus on how to quantify and evaluate those predictions. In particular, to quantify the accuracy of the predictions we will investigate different proper scoring rules. To evaluate those predictions we will use an internal validation procedure, where correct estimates of the proper scoring rules will be obtained using Bootstrap.
+
+A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.
+
+Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/jmlatentclasses/">
+  <link rel="alternate" hreflang="en-us" href="/talk/lc-mixed-model-arat/">
 
   
 
@@ -96,7 +104,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/jmlatentclasses/">
+  <link rel="canonical" href="/talk/lc-mixed-model-arat/">
 
   
   
@@ -111,26 +119,34 @@
   <meta property="twitter:creator" content="@@ERandrinopoulou">
   
   <meta property="og:site_name" content="ER Andrinopoulou">
-  <meta property="og:url" content="/publication/jmlatentclasses/">
-  <meta property="og:title" content="Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes. | ER Andrinopoulou">
-  <meta property="og:description" content="&lt;i&gt;Arxiv, 2018 &lt;/i&gt;"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/talk/lc-mixed-model-arat/">
+  <meta property="og:title" content="Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model | ER Andrinopoulou">
+  <meta property="og:description" content="Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.
+
+Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.
+
+We, first, take into account that most of the covariates are time-dependent and measured with error.  Secondly, patients can be categorized in sub-groups that exhibit different progression rates, that is no recovery, full recovery, and middle recovery.  We propose a Bayesian latent class multivariate mixed-effects models to obtain individualized dynamic predictions of ARAT. We focus on how to quantify and evaluate those predictions. In particular, to quantify the accuracy of the predictions we will investigate different proper scoring rules. To evaluate those predictions we will use an internal validation procedure, where correct estimates of the proper scoring rules will be obtained using Bootstrap.
+
+A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.
+
+Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential. "><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-09-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-07-16T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-09-01T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2019-07-16T00:00:00&#43;00:00">
   
-
-  
-
 
   
 
 
+  
 
 
 
-  <title>Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes. | ER Andrinopoulou</title>
+
+
+  <title>Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model | ER Andrinopoulou</title>
 
 </head>
 
@@ -363,7 +379,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
@@ -384,7 +400,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes.</h1>
+  <h1 itemprop="name">Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model</h1>
 
   
 
@@ -393,34 +409,14 @@
 
 
 
-<meta content="2018-09-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-09-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2019-07-16 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-07-16 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
   
   
-  
-  
-  <div>
-    
 
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Eleni-Rosalina Andrinopoulou</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kazem-nasserinejad/">Kazem Nasserinejad</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/rhonda-szczesniak/">Rhonda Szczesniak</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dimitris-rizopoulos/">Dimitris Rizopoulos</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>September 2018</time>
-  </span>
   
 
   
@@ -439,35 +435,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Integrating%20Latent%20Classes%20in%20the%20Bayesian%20Shared%20Parameter%20Joint%20Model%20of%20Longitudinal%20and%20Survival%20Outcomes.&amp;url=%2fpublication%2fjmlatentclasses%2f"
+         href="https://twitter.com/intent/tweet?text=Dynamic%20prediction%20modelling%20in%20hand%20disorders%20after%20stroke%20using%20a%20latent%20class%20multivariate%20mixed%20model&amp;url=%2ftalk%2flc-mixed-model-arat%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fjmlatentclasses%2f"
+         href="https://www.facebook.com/sharer.php?u=%2ftalk%2flc-mixed-model-arat%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fjmlatentclasses%2f&amp;title=Integrating%20Latent%20Classes%20in%20the%20Bayesian%20Shared%20Parameter%20Joint%20Model%20of%20Longitudinal%20and%20Survival%20Outcomes."
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2ftalk%2flc-mixed-model-arat%2f&amp;title=Dynamic%20prediction%20modelling%20in%20hand%20disorders%20after%20stroke%20using%20a%20latent%20class%20multivariate%20mixed%20model"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fjmlatentclasses%2f&amp;title=Integrating%20Latent%20Classes%20in%20the%20Bayesian%20Shared%20Parameter%20Joint%20Model%20of%20Longitudinal%20and%20Survival%20Outcomes."
+         href="http://service.weibo.com/share/share.php?url=%2ftalk%2flc-mixed-model-arat%2f&amp;title=Dynamic%20prediction%20modelling%20in%20hand%20disorders%20after%20stroke%20using%20a%20latent%20class%20multivariate%20mixed%20model"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Integrating%20Latent%20Classes%20in%20the%20Bayesian%20Shared%20Parameter%20Joint%20Model%20of%20Longitudinal%20and%20Survival%20Outcomes.&amp;body=%2fpublication%2fjmlatentclasses%2f">
+         href="mailto:?subject=Dynamic%20prediction%20modelling%20in%20hand%20disorders%20after%20stroke%20using%20a%20latent%20class%20multivariate%20mixed%20model&amp;body=%2ftalk%2flc-mixed-model-arat%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -491,8 +487,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -507,29 +501,26 @@
 
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
     
   
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/1802.10015" target="_blank" rel="noopener">
-  PDF
+<a class="btn btn-outline-primary my-1 mr-1" href="/talk/lc-mixed-model-arat/ISCB_ARAT.pdf" target="_blank" rel="noopener">
+  Slides
 </a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/jmlatentclasses/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
 
 
 
@@ -548,19 +539,45 @@
   <div class="article-container">
 
     
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text"><p>Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.</p>
 
+<p>Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.</p>
+
+<p>We, first, take into account that most of the covariates are time-dependent and measured with error.  Secondly, patients can be categorized in sub-groups that exhibit different progression rates, that is no recovery, full recovery, and middle recovery.  We propose a Bayesian latent class multivariate mixed-effects models to obtain individualized dynamic predictions of ARAT. We focus on how to quantify and evaluate those predictions. In particular, to quantify the accuracy of the predictions we will investigate different proper scoring rules. To evaluate those predictions we will use an internal validation procedure, where correct estimates of the proper scoring rules will be obtained using Bootstrap.</p>
+
+<p>A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.</p>
+
+<p>Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.</p>
+</p>
     
+
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Jul 16, 2019
+            <div class="talk-time">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
+            International Society for Clinical Biostatistics
             
           </div>
         </div>
@@ -568,15 +585,14 @@
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-    
 
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Arxiv</em></div>
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Leuven, Belgium</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -586,15 +602,11 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      
+    </div>
 
     
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/source-themes/">Source Themes</a>
-  
-</div>
 
 
     
@@ -606,10 +618,6 @@
 
 
 
-  
-  
-    
-  
   
 
 
