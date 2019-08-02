@@ -20,10 +20,15 @@
   url = "#projects"
   weight = 3
   
-  [[main]]
+[[main]]
   name = "Recent &#38; Upcoming Talks"
   url = "#talks"
   weight = 4
+
+[[main]]
+  name = "CV"
+  url = "#cv"
+  weight = 5
   
 [[main]]
   name = "Contact"
