@@ -15,7 +15,7 @@ Evidence-based algorithms for referral policies within stroke care pathways are 
  
 all_day: true
 authors: []
-date: "2019-07-08"
+date: "2019-07-16"
 #date_end: "2018-06-12T15:00:00Z"
 event: International Society for Clinical Biostatistics
 #event_url: https://example.org
