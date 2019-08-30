@@ -8,15 +8,15 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: 
-slides: example
+# slides: example
 summary: Active collaboration with Dr. Rhonda Szczesniak, Department of Biostatistics Epidemiology and the department of Pulmonary Medicine at Cincinnati Children's Hospital Medical Center, Cincinnati, United States.
 tags: 
-- CF
+#- CF
 title: Multivariate joint modeling characterizes how markers of growth and lung function decline predict cystic fibrosis pulmonary exacerbation onset. 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 ---
 
 Active collaboration with Dr. Rhonda Szczesniak, Department of Biostatistics Epidemiology and the department of Pulmonary Medicine at Cincinnati Children's Hospital Medical Center (CCHMC), Cincinnati,

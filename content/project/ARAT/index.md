@@ -8,15 +8,15 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: 
-slides: example
+# slides: example
 summary: Active collaboration with Dr. Ruud Selles, Department of Rehabilitation Medicine and Department of Plastic and Reconstructive Surgery and Hand Surgery in Erasmus MC and Dr. Harm Slijper, medical performance officer of Equipe.
 tags: 
-- ARAT
+#- ARAT
 title: "Dynamic prediction modelling in hand disorders after stroke: multivariate latent class mixed model."
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 ---
 
 Active collaboration with Dr. Ruud Selles, Department of Rehabilitation Medicine and Department of Plastic and Reconstructive Surgery and Hand Surgery in Erasmus MC and Dr. Harm Slijper, medical performance officer of Equipe.
