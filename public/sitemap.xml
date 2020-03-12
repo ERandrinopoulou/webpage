@@ -38,7 +38,17 @@
   </url>
   
   <url>
+    <loc>/tags/arat/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/arat/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +119,6 @@
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
