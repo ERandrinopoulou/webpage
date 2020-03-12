@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
 - admin
 bio: 
   education:
