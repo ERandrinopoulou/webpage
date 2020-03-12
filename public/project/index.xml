@@ -19,12 +19,9 @@
       <guid>/project/cff/</guid>
       <description>&lt;p&gt;Active collaboration with Dr. Rhonda Szczesniak, Department of Biostatistics Epidemiology and the department of Pulmonary Medicine at Cincinnati Children&amp;rsquo;s Hospital Medical Center (CCHMC), Cincinnati,
 United States.&lt;/p&gt;
-
 &lt;p&gt;Objectives: To fit a univariate joint model (JM) of lung-function decline and pulmonary exacerbation (PE) onset and contrast its predictive performance with a class of multivariate JMs that include combinations of growth markers as additional submodels.&lt;/p&gt;
-
-&lt;p&gt;Study Design and Setting: Longitudinal cohort study on 17,100 patients aged 6-20 years (US CF Registry; 2003-2015). Primary outcomes included longitudinal lung function (FEV1), BMI, weight-for-age and height-for-age percentiles and onset of PE. Relevant demographic/clinical covariates were included in each submodel. We implemented a joint model of FEV1 and time-to-PE and four multivariate JMs including growth outcomes.&lt;br /&gt;
+&lt;p&gt;Study Design and Setting: Longitudinal cohort study on 17,100 patients aged 6-20 years (US CF Registry; 2003-2015). Primary outcomes included longitudinal lung function (FEV1), BMI, weight-for-age and height-for-age percentiles and onset of PE. Relevant demographic/clinical covariates were included in each submodel. We implemented a joint model of FEV1 and time-to-PE and four multivariate JMs including growth outcomes.&lt;br&gt;
 Results: All five JMs indicated a negative association between FEV1 and hazard of PE onset (HR from univariate joint model: 0.97, P &amp;lt; 0.0001), and all had reasonable predictive accuracy (AUC &amp;gt; 0.70 for cross-validations). Jointly modeling only FEV1 and PE onset yielded the most accurate (AUC = 0.75) and precise predictions (narrowest IQR from cross-validations). Dynamic predictions were accurate across forecast horizons (0.5-, 1-, and 2-years) but precision improved with age.&lt;/p&gt;
-
 &lt;p&gt;Conclusion: Including growth markers via multivariate JMs did not yield gains in prediction performance but joint modeling is a useful approach for monitoring CF disease progression.&lt;/p&gt;
 </description>
     </item>
@@ -36,19 +33,12 @@ Results: All five JMs indicated a negative association between FEV1 and hazard o
       
       <guid>/project/arat/</guid>
       <description>&lt;p&gt;Active collaboration with Dr. Ruud Selles, Department of Rehabilitation Medicine and Department of Plastic and Reconstructive Surgery and Hand Surgery in Erasmus MC and Dr. Harm Slijper, medical performance officer of Equipe.&lt;/p&gt;
-
 &lt;p&gt;Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.&lt;/p&gt;
-
 &lt;p&gt;Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.&lt;/p&gt;
-
 &lt;p&gt;We, first, take into account that most of the covariates are time-dependent and measured with error.  Secondly, patients can be categorized in sub-groups that exhibit different progression rates, that is no recovery, full recovery, and middle recovery.  We propose a Bayesian latent class multivariate mixed-effects models to obtain individualized dynamic predictions of ARAT. We focus on how to quantify and evaluate those predictions. In particular, to quantify the accuracy of the predictions we will investigate different proper scoring rules. To evaluate those predictions we will use an internal validation procedure, where correct estimates of the proper scoring rules will be obtained using Bootstrap.&lt;/p&gt;
-
 &lt;p&gt;A preliminary analysis comparing the standard mixed-effects model with a simple regression showed a 10% improvement in the average absolute error defined as the absolute difference between the true and observed ARAT.&lt;/p&gt;
-
 &lt;p&gt;Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.&lt;/p&gt;
-
-&lt;p&gt;An interactive interface is created so that the treated physician can obtain dynamic predictions (&lt;a href=&#34;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/&lt;/a&gt;). This interactive interface is based on a univariate linear mixed model. An overview of this project can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&lt;/a&gt; and the results of the cross-validation can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&#34; target=&#34;_blank&#34;&gt;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;An interactive interface is created so that the treated physician can obtain dynamic predictions (&lt;a href=&#34;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/)&#34;&gt;https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/)&lt;/a&gt;. This interactive interface is based on a univariate linear mixed model. An overview of this project can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&#34;&gt;https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1&lt;/a&gt; and the results of the cross-validation can be found here: &lt;a href=&#34;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&#34;&gt;https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Work in progress: extend the app to accommodate multivariate latent class mixed model.&lt;/p&gt;
 </description>
     </item>
