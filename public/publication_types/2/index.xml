@@ -2,76 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on ER Andrinopoulou</title>
-    <link>/publication_types/2/</link>
+    <link>https://www.erandrinopoulou.com/publication_types/2/</link>
     <description>Recent content in 2 on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.erandrinopoulou.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes.</title>
-      <link>/publication/jmlatentclasses/</link>
+      <link>https://www.erandrinopoulou.com/publication/jmlatentclasses/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jmlatentclasses/</guid>
+      <guid>https://www.erandrinopoulou.com/publication/jmlatentclasses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved dynamic predictions from joint models of longitudinal and survival data with time-varying effects using P-splines.</title>
-      <link>/publication/improveddyn/</link>
+      <link>https://www.erandrinopoulou.com/publication/improveddyn/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/improveddyn/</guid>
+      <guid>https://www.erandrinopoulou.com/publication/improveddyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian shrinkage approach for a joint model of longitudinal and survival outcomes assuming different association structures.</title>
-      <link>/publication/shinkjm/</link>
+      <link>https://www.erandrinopoulou.com/publication/shinkjm/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shinkjm/</guid>
+      <guid>https://www.erandrinopoulou.com/publication/shinkjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combined dynamic predictions using joint models of two longitudinal outcomes and competing risk data.</title>
-      <link>/publication/combinedynpredjm/</link>
+      <link>https://www.erandrinopoulou.com/publication/combinedynpredjm/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/combinedynpredjm/</guid>
+      <guid>https://www.erandrinopoulou.com/publication/combinedynpredjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint modeling of two longitudinal outcomes and competing risk data.</title>
-      <link>/publication/jmordinalcompetingrisks/</link>
+      <link>https://www.erandrinopoulou.com/publication/jmordinalcompetingrisks/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/jmordinalcompetingrisks/</guid>
+      <guid>https://www.erandrinopoulou.com/publication/jmordinalcompetingrisks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An introduction to mixed models and joint modeling: analysis of valve function over time.</title>
-      <link>/publication/introjm/</link>
+      <link>https://www.erandrinopoulou.com/publication/introjm/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/introjm/</guid>
-      <description>
-
-&lt;h1 id=&#34;div-class-alert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;div&gt;
-    &lt;h1 id=&#34;click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://www.erandrinopoulou.com/publication/introjm/</guid>
+      <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
