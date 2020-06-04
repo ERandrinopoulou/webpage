@@ -5,7 +5,7 @@ authors:
 - Kazem Nasserinejad
 - Rhonda Szczesniak
 - Dimitris Rizopoulos
-date: "2018-09-01T00:00:00Z"
+date: "2020-06-02T00:00:00Z"
 doi: "10.1177/0962280220924680"
 featured: false
 
