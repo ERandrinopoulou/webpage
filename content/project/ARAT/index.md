@@ -31,6 +31,6 @@ A preliminary analysis comparing the standard mixed-effects model with a simple 
 
 Evidence-based algorithms for referral policies within stroke care pathways are lacking, and individual recovery profiles are hard to predict.  We will implement a decision support system that provides on-line transparent information to patients and caregivers at any time and any place about individual progress and predicted recovery potential.
 
-An interactive interface is created so that the treated physician can obtain dynamic predictions (https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/). This interactive interface is based on a univariate linear mixed model. An overview of this project can be found here: https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1 and the results of the cross-validation can be found here: https://emcbiostatistics.shinyapps.io/Cross_validation_ARAT_prediction_model/. 
+An interactive interface is created so that the treated physician can obtain dynamic predictions (https://emcbiostatistics.shinyapps.io/DynamicPredictionARATapp/). This interactive interface is based on a univariate linear mixed model. An overview of this project can be found here: https://emcbiostatistics.shinyapps.io/PresentationOverviewARAT/#1. 
 
 Work in progress: extend the app to accommodate multivariate latent class mixed model.
