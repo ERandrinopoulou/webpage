@@ -3,6 +3,7 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# the position of the section on the top of the webpage
 
 [[main]]
   name = "Biography"
@@ -24,15 +25,15 @@
   name = "Recent &#38; Upcoming Talks"
   url = "#talks"
   weight = 4
-  
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[main]]
   name = "My team"
   url = "#teams"
+  weight = 5
+  
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
   weight = 6
 
 [[main]]

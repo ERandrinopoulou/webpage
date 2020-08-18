@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: Teaching
-view: 4
+view: 6
 ---
