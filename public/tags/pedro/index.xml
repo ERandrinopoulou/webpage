@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro on ER Andrinopoulou</title>
+    <link>/tags/pedro/</link>
+    <description>Recent content in Pedro on ER Andrinopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/pedro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic prediction modelling in hand disorders after stroke: multivariate latent class mixed model.</title>
+      <link>/team/pedro/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/team/pedro/</guid>
+      <description>&lt;h2 id=&#34;pedro-manuel-miranda-afonso&#34;&gt;Pedro Manuel Miranda Afonso&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Split-merging techniques to effectively analyze big data with Bayesian joint models&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Explore the impact of different data splitting and combining strategies described in the literature to get a consensus posterior for posterior for the joint analysis for recurrent events, terminal event, and longitudinal outcome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

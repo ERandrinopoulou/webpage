@@ -36,6 +36,6 @@ summary: ""
 title: Dynamic prediction modelling in hand disorders after stroke using a latent class multivariate mixed model
 #url_code: ""
 #url_pdf: ""
-url_slides: "ISCB_ARAT.pdf"
+#url_slides: "ISCB_ARAT.pdf"
 #url_video: ""
 ---
