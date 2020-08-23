@@ -34,6 +34,6 @@ summary: ""
 title: Challenges and opportunities of combined analysis of multiple outcomes in longitudinal studies
 #url_code: ""
 #url_pdf: ""
-#url_slides: "ISCB_ARAT.pdf"
+url_slides: "EleniRosalinaAndrinopoulou_IS02_0040_V2.pdf"
 #url_video: ""
 ---
