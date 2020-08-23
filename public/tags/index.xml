@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ER Andrinopoulou</title>
-    <link>/tags/</link>
+    <link>https://www.erandrinopoulou.com/tags/</link>
     <description>Recent content in Tags on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.erandrinopoulou.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://www.erandrinopoulou.com/tags/source-themes/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/source-themes/</guid>
+      <guid>https://www.erandrinopoulou.com/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CF</title>
-      <link>/tags/cf/</link>
+      <link>https://www.erandrinopoulou.com/tags/cf/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cf/</guid>
+      <guid>https://www.erandrinopoulou.com/tags/cf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARAT</title>
-      <link>/tags/arat/</link>
+      <link>https://www.erandrinopoulou.com/tags/arat/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/arat/</guid>
+      <guid>https://www.erandrinopoulou.com/tags/arat/</guid>
       <description></description>
     </item>
     

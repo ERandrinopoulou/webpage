@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on ER Andrinopoulou</title>
-    <link>/team/</link>
+    <link>https://www.erandrinopoulou.com/team/</link>
     <description>Recent content in Teams on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.erandrinopoulou.com/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pedro Afonso</title>
-      <link>/team/pedro/</link>
+      <link>https://www.erandrinopoulou.com/team/pedro/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/team/pedro/</guid>
+      <guid>https://www.erandrinopoulou.com/team/pedro/</guid>
       <description>&lt;p&gt;Pedro Afonso is a PhD student working on the following projects:&lt;/p&gt;
 &lt;h2 id=&#34;efficiently-analyzing-big-data-with-bayesian-joint-models-for-longitudinal-and-time-to-event-data&#34;&gt;Efficiently analyzing big data with Bayesian joint models for longitudinal and time-to-event data&lt;/h2&gt;
 &lt;p&gt;Background: Cystic Fibrosis (CF) is a lethal genetic lung disease that requires frequent monitoring. A commonly measured marker of lung function in CF is forced expiratory volume in 1 s of % predicted (FEV1). This sub-study stems from an international workgroup project to establish guidelines for longitudinal analysis of CF FEV1 using the U.S. CF Foundation Patient Registry, which contains health-related information for approximately 30,800 CF patients who collectively contributed 1,215,171 observations and 255,804 years of follow-up. It has been of clinical interest to model the association between FEV1 and time-to-death, but previous work neglected recurrent acute pulmonary exacerbation (PE) events and time-to-lung-transplantation, and mainly made use of smaller subsets of the registry data. Analyzing the entire dataset is expensive in terms of computation times. There is a need for algorithms that perform distributed analyses that simultaneously and unbiasedly investigate multiple correlated outcomes.&lt;/p&gt;
