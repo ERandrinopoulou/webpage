@@ -15,7 +15,7 @@ all_day: true
 authors: []
 date: "2020-08-23"
 #date_end: "2020-08-12T10:00:00Z"
-event: International Society for Clinical Biostatistics
+event: International Society for Clinical Biostatistics 
 #event_url: https://example.org
 featured: false
 # links:
