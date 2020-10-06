@@ -6,15 +6,29 @@
     <description>Recent content in Teams on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Aglina Lika</title>
+      <link>/team/aglina/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/team/aglina/</guid>
+      <description>&lt;p&gt;Aglina Lika is a PhD student working on the following projects:&lt;/p&gt;
+&lt;h2 id=&#34;the-effects-of-parametrizations-and-scaling-on-generalized-linear-mixed-models-using-hamiltonian-monte-carlo-algorithm&#34;&gt;The effects of Parametrizations and Scaling on Generalized Linear Mixed Models using Hamiltonian Monte Carlo algorithm&lt;/h2&gt;
+&lt;p&gt;Fitting generalized linear mixed models under the Bayesian approach can be computationally expensive. Such situations typically appear in applications where non-linear, high-dimensional parameter space, and/or complicated covariance structures exist. This gives rise to study efficient model parameterizations and data normalization that improve the convergence. In this paper, we compared the convergence time complexity of Hamiltonian Monte Carlo (HMC) techniques with scaled data using centered and non-centered parametrizations through a simulation study.&lt;/p&gt;
+&lt;h2 id=&#34;bayesian-approach-for-multivariate-longitudinal-data-analysis-assuming-different-association-structures&#34;&gt;Bayesian approach for multivariate longitudinal data analysis assuming different association structures&lt;/h2&gt;
+&lt;p&gt;Studies in life course epidemiology often involve different types of outcomes being collected on individuals, who are followed over time. These outcomes are mainly analysed separately, although it may be of scientific interest to study their associations. To model the correlation of multiple longitudinal outcomes, it is common to assume a multivariate normal distribution for the corresponding random effects. This approach, however, has its limitations in terms of interpreting the strength of association between the outcomes. To overcome this, we can include several longitudinal outcomes, as time-dependent covariates, in the model of the main longitudinal outcome. Another advantage is that several features of these longitudinal predictors could be used, namely the previous values, the slope and the area under the curve. The proposed multivariate mixed model can incorporate different functional forms to link multiple outcomes assuming the Bayesian framework. Applications are illustrated on a dataset from a study on Pompe disease, where it is important to investigate how physical outcomes and patient-reported outcomes are associated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pedro Afonso</title>
       <link>/team/pedro/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/team/pedro/</guid>
       <description>&lt;p&gt;Pedro Afonso is a PhD student working on the following projects:&lt;/p&gt;
@@ -24,6 +38,8 @@
 &lt;p&gt;Methods: We relied on the joint modelling framework, under the Bayesian paradigm, to simultaneously fit a joint model for a longitudinal marker, a recurrent event, and a terminal event. Due to the high computational time required to evaluate the entire dataset, we split the dataset into smaller non-overlapping subsets, parallelized their analyses, and then averaged individual posterior samples together. We explored different data splitting and combining strategies to get a consensus posterior.&lt;/p&gt;
 &lt;p&gt;Results: Preliminary results suggest that FEV1 is negatively associated with the risk of experiencing death or transplantation. The model obtained from the split data estimates an association of -0.11 (95%CI -0.13,-0.10), while the model leveraging the entire dataset shows an estimates of -0.11 (-0.12,-0.10). The 10-fold reduction in sample size produced a 90% decrease in computing time. The results were also investigated through simulation studies.&lt;/p&gt;
 &lt;p&gt;Conclusions: The idea of distributing the Bayesian calculation is likely to be a useful solution to handle very big datasets without compromising the amount of information taken into account or sacrificing model adequacy, thereby, enhancing our understanding of CF FEV1 decline.&lt;/p&gt;
+&lt;h2 id=&#34;between--and-within-group-comparisons-of-fev1-rate-of-decline-in-cystic-fibrosis&#34;&gt;Between- and Within-Group Comparisons of FEV1 Rate of Decline in Cystic Fibrosis&lt;/h2&gt;
+&lt;p&gt;Difference in rate of change for before and after Ivacaftor treatment in subjects with a G551D mutation. Different modelling approaches (linear mixed-effects models, generalized estimating equations and joint models of longitudinal and survival data) and data scenarios are investigated.&lt;/p&gt;
 </description>
     </item>
     

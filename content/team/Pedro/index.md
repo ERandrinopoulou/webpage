@@ -1,7 +1,7 @@
 ---
 all_day: true
 #authors: []
-date: "2019-07-16"
+date: "2019-12-15"
 #date_end: "2018-06-12T15:00:00Z"
 #event: International Society for Clinical Biostatistics
 #event_url: https://example.org
@@ -44,3 +44,7 @@ Results: Preliminary results suggest that FEV1 is negatively associated with the
 
 Conclusions: The idea of distributing the Bayesian calculation is likely to be a useful solution to handle very big datasets without compromising the amount of information taken into account or sacrificing model adequacy, thereby, enhancing our understanding of CF FEV1 decline.
  
+ 
+## Between- and Within-Group Comparisons of FEV1 Rate of Decline in Cystic Fibrosis 
+
+Difference in rate of change for before and after Ivacaftor treatment in subjects with a G551D mutation. Different modelling approaches (linear mixed-effects models, generalized estimating equations and joint models of longitudinal and survival data) and data scenarios are investigated.
