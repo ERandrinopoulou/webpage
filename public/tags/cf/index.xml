@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CF on ER Andrinopoulou</title>
-    <link>/tags/cf/</link>
+    <link>https://www.erandrinopoulou.com/tags/cf/</link>
     <description>Recent content in CF on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/cf/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.erandrinopoulou.com/tags/cf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis of Cystic Fibrosis FEV1 Decline</title>
-      <link>/project/cff/</link>
+      <link>https://www.erandrinopoulou.com/project/cff/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/cff/</guid>
+      <guid>https://www.erandrinopoulou.com/project/cff/</guid>
       <description>&lt;p&gt;Active collaboration with Dr. Rhonda Szczesniak, Department of Pediatrics, University of Cincinnati; Division of Biostatistics &amp;amp; Epidemiology, Cincinnati Children&amp;rsquo;s Hospital Medical Center, Cincinnati, United States and the Cystic Fibrosis Foundation.&lt;/p&gt;
 &lt;p&gt;To evaluate analytic approaches to assessing change in FEV1 decline: i) before and after treatment initiation (i.e., within the same group of subjects); ii) between treated and untreated (i.e., parallel) groups of subjects. As an illustrative application, we will estimate the effect of ivacaftor initiation on FEV1 rate of decline and compare the adjusted difference in rates of change in two groups, as described subsequently.&lt;/p&gt;
 </description>

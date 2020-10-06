@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARAT on ER Andrinopoulou</title>
-    <link>/tags/arat/</link>
+    <link>https://www.erandrinopoulou.com/tags/arat/</link>
     <description>Recent content in ARAT on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/arat/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.erandrinopoulou.com/tags/arat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dynamic prediction modelling in hand disorders after stroke: multivariate latent class mixed model.</title>
-      <link>/project/arat/</link>
+      <link>https://www.erandrinopoulou.com/project/arat/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/project/arat/</guid>
+      <guid>https://www.erandrinopoulou.com/project/arat/</guid>
       <description>&lt;p&gt;Active collaboration with Dr. Ruud Selles, Department of Rehabilitation Medicine and Department of Plastic and Reconstructive Surgery and Hand Surgery in Erasmus MC and Dr. Harm Slijper, medical performance officer of Equipe.&lt;/p&gt;
 &lt;p&gt;Nowadays stroke is a leading cause of adult disability. The Action Research Arm Test (ARAT) is a measure used in rehabilitation medicine to assess upper extremity performance. Motivated by a study conducted in Amsterdam and consists of 450 patients (mean age is 65 and mean follow-up visits is 6), our ultimate goal is to implement individualized dynamic predictions of ARAT in Gemstracker which is a software package consisting of different patient information collected during clinical research.&lt;/p&gt;
 &lt;p&gt;Different type of information is available at each visit such as patients characteristics, upper extremity function but also some other activity measurements. Physicians want to utilize all available data to predict ARAT measurements six months after stroke. Nowadays, predictions are based on simplistic approaches, such as regression, that ignore the dynamic nature of the disease. A popular framework to analyze repeated measures is the mixed-effects models. We aim to provide dynamic predictions for ARAT by extending the standard mixed-effects model to account for the special features of the data set.&lt;/p&gt;
