@@ -3,241 +3,246 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.erandrinopoulou.com/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/</loc>
+    <loc>/talk/estimating-cystic-fibrosis-lung-function-decline/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/talk/estimating-cystic-fibrosis-lung-function-decline/</loc>
+    <loc>/talk/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/talk/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.erandrinopoulou.com/talk/challenges-and-opportunities/</loc>
+    <loc>/talk/challenges-and-opportunities/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication_types/2/</loc>
+    <loc>/publication_types/2/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/john-p.-clancy/</loc>
+    <loc>/authors/john-p.-clancy/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/multijmdyncf/</loc>
+    <loc>/publication/multijmdyncf/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/rhonda-szczesniak/</loc>
+    <loc>/authors/rhonda-szczesniak/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/tags/source-themes/</loc>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/dimitris-rizopoulos/</loc>
+    <loc>/authors/dimitris-rizopoulos/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/jmlatentclasses/</loc>
+    <loc>/publication/jmlatentclasses/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/kazem-nasserinejad/</loc>
+    <loc>/authors/kazem-nasserinejad/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/team/aglina/</loc>
+    <loc>/team/aglina/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/team/</loc>
+    <loc>/team/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/team/pedro/</loc>
+    <loc>/team/pedro/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/talk/lc-mixed-model-arat/</loc>
+    <loc>/talk/lc-mixed-model-arat/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/project/cff/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.erandrinopoulou.com/tags/cf/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.erandrinopoulou.com/project/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.erandrinopoulou.com/tags/arat/</loc>
+    <loc>/tags/arat/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/project/arat/</loc>
+    <loc>/tags/cf/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/courses/</loc>
+    <loc>/project/arat/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/cff/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/talk/risk-indicators-in-clinical-practice-with-jm/</loc>
+    <loc>/talk/risk-indicators-in-clinical-practice-with-jm/</loc>
     <lastmod>2018-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/talk/lc-mixed-model-uveitis/</loc>
+    <loc>/talk/lc-mixed-model-uveitis/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/improveddyn/</loc>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/improveddyn/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/johanna-j.-m.-takkenberg/</loc>
+    <loc>/authors/johanna-j.-m.-takkenberg/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/paul-h.-c.-eilers/</loc>
+    <loc>/authors/paul-h.-c.-eilers/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/shinkjm/</loc>
+    <loc>/publication/shinkjm/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/combinedynpredjm/</loc>
+    <loc>/publication/combinedynpredjm/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/emmanuel-lesaffre/</loc>
+    <loc>/authors/emmanuel-lesaffre/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/johanna-jm-takkenberg/</loc>
+    <loc>/authors/johanna-jm-takkenberg/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/jmordinalcompetingrisks/</loc>
+    <loc>/publication/jmordinalcompetingrisks/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/ad-j.j.c.-bogers/</loc>
+    <loc>/authors/ad-j.j.c.-bogers/</loc>
     <lastmod>2012-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/publication/introjm/</loc>
+    <loc>/publication/introjm/</loc>
     <lastmod>2012-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/johanna-j.m.-takkenberg/</loc>
+    <loc>/authors/johanna-j.m.-takkenberg/</loc>
     <lastmod>2012-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/authors/ruyun-jin/</loc>
+    <loc>/authors/ruyun-jin/</loc>
     <lastmod>2012-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.erandrinopoulou.com/teaching/</loc>
+    <loc>/teaching/</loc>
   </url>
   
 </urlset>
