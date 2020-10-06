@@ -2,75 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ER Andrinopoulou</title>
-    <link>https://www.erandrinopoulou.com/</link>
+    <link>/</link>
     <description>Recent content on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     
-	    <atom:link href="https://www.erandrinopoulou.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.erandrinopoulou.com/talk/</link>
+      <link>/talk/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/talk/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://www.erandrinopoulou.com/publication/</link>
+      <link>/publication/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teams</title>
-      <link>https://www.erandrinopoulou.com/team/</link>
+      <link>/team/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/team/</guid>
+      <guid>/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://www.erandrinopoulou.com/project/</link>
+      <link>/project/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/project/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://www.erandrinopoulou.com/courses/</link>
+      <link>/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/courses/</guid>
+      <guid>/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://www.erandrinopoulou.com/slides/</link>
+      <link>/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/slides/</guid>
+      <guid>/slides/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
-      <link>https://www.erandrinopoulou.com/teaching/</link>
+      <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/teaching/</guid>
+      <guid>/teaching/</guid>
       <description></description>
     </item>
     

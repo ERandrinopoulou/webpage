@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes on ER Andrinopoulou</title>
-    <link>https://www.erandrinopoulou.com/tags/source-themes/</link>
+    <link>/tags/source-themes/</link>
     <description>Recent content in Source Themes on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://www.erandrinopoulou.com/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multivariate joint modeling to identify markers of growth and lung function decline that predict cystic fibrosis pulmonary exacerbation onset Outcomes.</title>
-      <link>https://www.erandrinopoulou.com/publication/multijmdyncf/</link>
+      <link>/publication/multijmdyncf/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/multijmdyncf/</guid>
+      <guid>/publication/multijmdyncf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes.</title>
-      <link>https://www.erandrinopoulou.com/publication/jmlatentclasses/</link>
+      <link>/publication/jmlatentclasses/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/jmlatentclasses/</guid>
+      <guid>/publication/jmlatentclasses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved dynamic predictions from joint models of longitudinal and survival data with time-varying effects using P-splines.</title>
-      <link>https://www.erandrinopoulou.com/publication/improveddyn/</link>
+      <link>/publication/improveddyn/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/improveddyn/</guid>
+      <guid>/publication/improveddyn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian shrinkage approach for a joint model of longitudinal and survival outcomes assuming different association structures.</title>
-      <link>https://www.erandrinopoulou.com/publication/shinkjm/</link>
+      <link>/publication/shinkjm/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/shinkjm/</guid>
+      <guid>/publication/shinkjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combined dynamic predictions using joint models of two longitudinal outcomes and competing risk data.</title>
-      <link>https://www.erandrinopoulou.com/publication/combinedynpredjm/</link>
+      <link>/publication/combinedynpredjm/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/combinedynpredjm/</guid>
+      <guid>/publication/combinedynpredjm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint modeling of two longitudinal outcomes and competing risk data.</title>
-      <link>https://www.erandrinopoulou.com/publication/jmordinalcompetingrisks/</link>
+      <link>/publication/jmordinalcompetingrisks/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/jmordinalcompetingrisks/</guid>
+      <guid>/publication/jmordinalcompetingrisks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An introduction to mixed models and joint modeling: analysis of valve function over time.</title>
-      <link>https://www.erandrinopoulou.com/publication/introjm/</link>
+      <link>/publication/introjm/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.erandrinopoulou.com/publication/introjm/</guid>
+      <guid>/publication/introjm/</guid>
       <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;

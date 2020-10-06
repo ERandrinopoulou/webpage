@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on ER Andrinopoulou</title>
-    <link>https://www.erandrinopoulou.com/teaching/</link>
+    <link>/teaching/</link>
     <description>Recent content in Teaching on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://www.erandrinopoulou.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
