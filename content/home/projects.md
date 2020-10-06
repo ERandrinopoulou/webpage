@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Dynamic predictions using joint models of multiple longitudinal and survival data"
+    name = "Analysis of CF FEV1 Decline "
     tag = "CF"
   
   [[content.filter_button]]
