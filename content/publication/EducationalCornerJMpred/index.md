@@ -16,7 +16,7 @@ publication_short: "International Journal of Epidemiology"
 publication_types: 
 - "2"
 publishDate: "2 February 2021"
-summary: '<i>Journal of neurology, neurosurgery, and psychiatry, 2021 </i>'
+summary: '<i>International Journal of Epidemiology, 2021 </i>'
 tags:
 - Source Themes
 title: Reflections on modern methods. Dynamic prediction using joint models of longitudinal and time-to-event data.
