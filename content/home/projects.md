@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Analysis of CF FEV1 Decline "
+    name = "Lung progression in CF"
     tag = "CF"
   
   [[content.filter_button]]
-    name = "Dynamic predictions using multivariate mixed models"
+    name = "Dynamic predictions in stroke"
     tag = "ARAT"
 
 [design]
