@@ -21,10 +21,12 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
     "Longitudinal analysis",
-    "Joint models of longitudinal and survival data",
+    "Joint models of multivariate longitudinal and survival data",
     "Dynamic predictions",
     "Bayesian Methods",
-    "Mixture models"
+    "Data integration",
+    "Environmental data",
+    "Multi-model"
   ]
   
 # List qualifications (such as academic degrees)
