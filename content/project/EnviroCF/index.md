@@ -21,13 +21,13 @@ title: Analysis of Cystic Fibrosis FEV1 Decline
 
 Active collaboration with Dr. Rhonda Szczesniak, Department of Pediatrics, University of Cincinnati, Division of Biostatistics & Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, United States and the Cystic Fibrosis Foundation.
 
-To evaluate analytic approaches to assess changes in FEV1 decline. We focus on
-
-1) Natural progression of lung function.
-
-2a) Lung function progression before and after treatment (ivacaftor) initiation.
-
-2b) Between treated and untreated groups of subjects. 
-
-3) Variability in lung function decline before and after treatment (ivacaftor) initiation.
-
+Environmental exposures and community characteristics (geomarkers)
+have the capacity to profoundly influence pulmonary outcomes and interventions
+in patients with cystic fibrosis (CF). These non-genetic influences
+(e.g., socioeconomic status; ambient temperature) explain a big part of
+the variation in CF lung function, and have been
+linked to accelerated lung-function decline and pulmonary exacerbation
+(PE) frequency. The increasing availability of big
+spatiotemporal data coupled with rich CF registries have not been adequately leveraged to inform dynamic
+prediction of rapid decline, or to create point-of-care tools applicable to the individual patient. These gaps limit
+proactive interventions to prevent irreversible lung damage.
