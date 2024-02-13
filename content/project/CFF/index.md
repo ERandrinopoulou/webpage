@@ -12,7 +12,7 @@ links:
 summary: Cystic Fibrosis Foundation - best practices for the analysis of lung function consortium
 tags: 
 - CF
-title: Analysis of Cystic Fibrosis FEV1 Decline 
+title: Analysis of lung function decline 
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
