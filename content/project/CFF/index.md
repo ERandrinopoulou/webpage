@@ -9,7 +9,7 @@ links:
 #  name: Follow
 #  url: 
 # slides: example
-summary: Active collaboration with Dr. Rhonda Szczesniak, Department of Pediatrics, University of Cincinnati, Division of Biostatistics & Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, United States and the Cystic Fibrosis Foundation.
+summary: Cystic Fibrosis Foundation: best practices for the analysis of lung function consortium
 tags: 
 - CF
 title: Analysis of Cystic Fibrosis FEV1 Decline 
@@ -21,9 +21,13 @@ title: Analysis of Cystic Fibrosis FEV1 Decline
 
 Active collaboration with Dr. Rhonda Szczesniak, Department of Pediatrics, University of Cincinnati, Division of Biostatistics & Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, United States and the Cystic Fibrosis Foundation.
 
-To evaluate analytic approaches to assessing change in FEV1 decline.
+To evaluate analytic approaches to assess changes in FEV1 decline. We focus on:
 
-i) Before and after treatment initiation (i.e., within the same group of subjects).
+1) Natural progression of lung function.
 
-ii) Between treated and untreated (i.e., parallel) groups of subjects. As an illustrative application, we will estimate the effect of ivacaftor initiation on FEV1 rate of decline and compare the adjusted difference in rates of change in two groups, as described subsequently.
+2a) Lung function progression before and after treatment (ivacaftor) initiation.
+
+2b) Between treated and untreated groups of subjects. 
+
+3) Variability in lung function decline before and after treatment (ivacaftor) initiation.
 
