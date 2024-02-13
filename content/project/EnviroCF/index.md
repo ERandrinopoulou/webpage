@@ -9,10 +9,10 @@ links:
 #  name: Follow
 #  url: 
 # slides: example
-summary: Cystic Fibrosis Foundation - best practices for the analysis of lung function consortium
+summary: NIH R01 Environmental contribution to lung progression in Cystic Fibrosis consortium
 tags: 
 - EnviroCF
-title: Analysis of Cystic Fibrosis FEV1 Decline 
+title: Connection of geomarkers and lung function
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
