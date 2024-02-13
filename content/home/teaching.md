@@ -11,6 +11,8 @@ title = "Teaching"
 subtitle = ""
 +++
 
-I am coordinating the BST02 course at Erasmus MC: 
+[Biostatistics I](https://www.nihes.com/course/ck020_biostatistics_i/)
+
+[Biostatistics II](https://www.nihes.com/course/ck020_biostatistics_ii/)
 
 [Using R for Statistics in Medical Research](https://nerler.github.io/BST02/)
