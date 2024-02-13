@@ -21,7 +21,7 @@ title: Analysis of Cystic Fibrosis FEV1 Decline
 
 Active collaboration with Dr. Rhonda Szczesniak, Department of Pediatrics, University of Cincinnati, Division of Biostatistics & Epidemiology, Cincinnati Children's Hospital Medical Center, Cincinnati, United States and the Cystic Fibrosis Foundation.
 
-To evaluate analytic approaches to assess changes in FEV1 decline. We focus on:
+To evaluate analytic approaches to assess changes in FEV1 decline. We focus on
 
 1) Natural progression of lung function.
 
