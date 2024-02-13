@@ -9,7 +9,7 @@ links:
 #  name: Follow
 #  url: 
 # slides: example
-summary: Cystic Fibrosis Foundation: best practices for the analysis of lung function consortium
+summary: Cystic Fibrosis Foundation - best practices for the analysis of lung function consortium
 tags: 
 - CF
 title: Analysis of Cystic Fibrosis FEV1 Decline 
