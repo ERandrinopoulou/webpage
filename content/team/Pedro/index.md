@@ -17,7 +17,7 @@ featured: false
 # - internal-project
 # publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: "Joint models for recurrent events, terminal event, and longitudinal outcome using the CFF data" 
+summary: "Joint models for multiple longitudinal and survival outcomes using the Cystic Fibrosis data" 
 #tags: []
 title: Pedro Afonso
 #url_code: ""
