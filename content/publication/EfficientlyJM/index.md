@@ -15,7 +15,7 @@ featured: false
 
 projects: []
 publication: "*Arxiv*"
-publication_short: ""*Arxiv*""
+publication_short: "Arxiv"
 publication_types: 
 - "2"
 publishDate: "5 October 2023"
