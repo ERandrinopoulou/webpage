@@ -17,7 +17,7 @@ publication_short: "Eur J Cardiothorac Surg"
 publication_types: 
 - "2"
 publishDate: "2 September 2022"
-summary: '<i>European Journal of Cardio-Thoracic Surgery, 2022 </i>'
+summary: '<i>European Journal of Cardio Thoracic Surgery, 2022 </i>'
 tags:
 - Source Themes
 title: Statistical primer: an introduction to the application of linear mixed effects models in cardiothoracic surgery outcomes research. A case study using homograft pulmonary valve replacement data.
