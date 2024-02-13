@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Lung progression in CF"
     tag = "CF"
+
+  [[content.filter_button]]
+    name = "Geomarkers and lung function in CF"
+    tag = "EnrivoCF"
   
   [[content.filter_button]]
     name = "Dynamic predictions in stroke"
