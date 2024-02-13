@@ -17,7 +17,7 @@ featured: false
 # - internal-project
 # publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: "Associations of physical outcomes and patient-reported outcomes in adult patients with Pompe disease before enzyme replacement therapy" 
+summary: "Associations of physical outcomes and patient-reported outcomes in adult patients with Pompe disease during enzyme replacement therapy" 
 #tags: []
 title: Aglina Lika
 #url_code: ""
