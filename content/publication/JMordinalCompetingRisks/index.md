@@ -14,7 +14,7 @@ publication: '*Statistics in Medicine*. 2014 Aug;33(18):3167-3178'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "06 July 2016"
+publishDate: "15 Aug 2014"
 summary: '<i>Statistics in Medicine, 2014 </i>'
 tags:
 #- Source Themes
