@@ -30,21 +30,42 @@ Pedro Afonso is a PhD student working on the following projects:
 
 ## Efficiently analyzing big data with Bayesian joint models for longitudinal and time-to-event data
 
-Background: Cystic Fibrosis (CF) is a lethal genetic lung disease that requires frequent monitoring. A commonly measured marker of lung function in CF is forced expiratory volume in 1 s of % predicted (FEV1). This sub-study stems from an international workgroup project to establish guidelines for longitudinal analysis of CF FEV1 using the U.S. CF Foundation Patient Registry, which contains health-related information for approximately 30,800 CF patients who collectively contributed 1,215,171 observations and 255,804 years of follow-up. It has been of clinical interest to model the association between FEV1 and time-to-death, but previous work neglected recurrent acute pulmonary exacerbation (PE) events and time-to-lung-transplantation, and mainly made use of smaller subsets of the registry data. Analyzing the entire dataset is expensive in terms of computation times. There is a need for algorithms that perform distributed analyses that simultaneously and unbiasedly investigate multiple correlated outcomes.
-
-
-Objectives: Our primary goal was to investigate the association between FEV1 and the risk of PE, lung- transplant/death using all available registry data (2003-2016) for patients aged >= 6 years. 
-
-
-Methods: We relied on the joint modelling framework, under the Bayesian paradigm, to simultaneously fit a joint model for a longitudinal marker, a recurrent event, and a terminal event. Due to the high computational time required to evaluate the entire dataset, we split the dataset into smaller non-overlapping subsets, parallelized their analyses, and then averaged individual posterior samples together. We explored different data splitting and combining strategies to get a consensus posterior. 
-
-
-Results: Preliminary results suggest that FEV1 is negatively associated with the risk of experiencing death or transplantation. The model obtained from the split data estimates an association of -0.11 (95%CI -0.13,-0.10), while the model leveraging the entire dataset shows an estimates of -0.11 (-0.12,-0.10). The 10-fold reduction in sample size produced a 90% decrease in computing time. The results were also investigated through simulation studies.
-
-
-Conclusions: The idea of distributing the Bayesian calculation is likely to be a useful solution to handle very big datasets without compromising the amount of information taken into account or sacrificing model adequacy, thereby, enhancing our understanding of CF FEV1 decline.
- 
+The joint modeling of longitudinal and time-to-event outcomes has become a popular tool in follow-up stud-
+ies. However, fitting Bayesian joint models to large datasets, such as patient registries, can require extended
+computing times. To speed up sampling, we divided a patient registry dataset into subsamples, analyzed
+them in parallel, and combined the resulting Markov chain Monte Carlo draws into a consensus distribu-
+tion. We used a simulation study to investigate how different consensus strategies perform with joint models.
+In particular, we compared grouping all draws together with using equal- and precision-weighted averages.
+We considered scenarios reflecting different sample sizes, numbers of data splits, and processor characteris-
+tics. Parallelization of the sampling process substantially decreased the time required to run the model. We
+found that the weighted-average consensus distributions for large sample sizes were nearly identical to the
+target posterior distribution. The proposed algorithm has been made available in an R package for joint mod-
+els, JMbayes2. This work was motivated by the clinical interest in investigating the association between
+ppFEV1, a commonly measured marker of lung function, and the risk of lung transplant or death, using data
+from the US Cystic Fibrosis Foundation Patient Registry (35,153 individuals with 372,366 years of cumu-
+lative follow-up). Splitting the registry into five subsamples resulted in an 85% decrease in computing time,
+from 9.22 to 1.39 hours. Splitting the data and finding a consensus distribution by precision-weighted aver-
+aging proved to be a computationally efficient and robust approach to handling large datasets under the joint
+modeling framework.
  
 ## Between- and Within-Group Comparisons of FEV1 Rate of Decline in Cystic Fibrosis 
 
 Difference in rate of change for before and after Ivacaftor treatment in subjects with a G551D mutation. Different modelling approaches (linear mixed-effects models, generalized estimating equations and joint models of longitudinal and survival data) and data scenarios are investigated.
+
+## A joint model for (un)bounded longitudinal markers, competing risks, and recurrent events]{A joint model for (un)bounded longitudinal markers, competing risks, and recurrent events
+
+Joint models for longitudinal and survival data have become a popular framework for studying the
+association between repeatedly measured biomarkers and clinical events. Nevertheless, addressing complex survival
+data structures, especially handling both recurrent and competing event times within a single model, remains a
+challenge. This causes important information to be disregarded. Moreover, existing frameworks rely on a Gaussian
+distribution for continuous markers, which may be unsuitable for bounded biomarkers, resulting in biased estimates of
+associations. To address these limitations, we propose a Bayesian shared-parameter joint model that simultaneously
+accommodates multiple (possibly bounded) longitudinal markers, a recurrent event process, and competing risks. We
+use the beta distribution to model responses bounded within any interval (a, b) without sacrificing the interpretability
+of the association. The model offers various forms of association, discontinuous risk intervals, and both gap and
+calendar timescales. A simulation study shows that it outperforms simpler joint models. We analyze the US Cystic
+Fibrosis Foundation Patient Registry to study the associations between lung function decline, cumulative changes
+in body mass index, and the risk of recurrent pulmonary exacerbations, while accounting for the competing risks of
+death and lung transplantation. Our efficient implementation allows fast fitting of the model despite its complexity
+and the large sample size. Our comprehensive approach provides new insights into cystic fibrosis progression. The
+model is available in the R package JMbayes2.
