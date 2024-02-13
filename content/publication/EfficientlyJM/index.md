@@ -19,7 +19,7 @@ publication_short: "Arxiv"
 publication_types: 
 - "2"
 publishDate: "5 October 2023"
-summary: '<i>"*Arxiv*", 2023 </i>'
+summary: '<i>Arxiv, 2023 </i>'
 tags:
 #- Source Themes
 title: Efficiently analyzing large patient registries with Bayesian joint models for longitudinal and time-to-event data.
