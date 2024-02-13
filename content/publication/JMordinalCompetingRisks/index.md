@@ -17,7 +17,7 @@ publication_types:
 publishDate: "06 July 2016"
 summary: '<i>Statistics in Medicine, 2014 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Joint modeling of two longitudinal outcomes and competing risk data.
 url_code: ""
 url_dataset: ""

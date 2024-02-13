@@ -20,7 +20,7 @@ publication_types:
 publishDate: "06 June 2012"
 summary: '<i>The Annals of Thoracic Surgery , 2012 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: "An introduction to mixed models and joint modeling: analysis of valve function over time."
 url_code: ""
 url_dataset: ""

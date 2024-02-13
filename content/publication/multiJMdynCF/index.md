@@ -17,7 +17,7 @@ publication_types:
 publishDate: "19 May 2020"
 summary: '<i>BMC Pulmonary Medicine, 2020 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Multivariate joint modeling to identify markers of growth and lung function decline that predict cystic fibrosis pulmonary exacerbation onset Outcomes.
 url_code: ""
 url_dataset: ""

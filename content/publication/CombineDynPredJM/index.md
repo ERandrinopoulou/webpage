@@ -20,7 +20,7 @@ publication_types:
 publishDate: "09 June 2015"
 summary: '<i>Statistical Methods in Medical Research, 2017 </i>'
 tags: 
-- Source Themes
+#- Source Themes
 title: Combined dynamic predictions using joint models of two longitudinal outcomes and competing risk data.
 summary: <i>Statistical Methods in Medical Research, 2017 </i>
 url_code: ""

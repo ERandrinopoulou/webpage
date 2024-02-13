@@ -17,7 +17,7 @@ publication_types:
 publishDate: "01 November 2017"
 summary: '<i>Biometrics, 2018 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Improved dynamic predictions from joint models of longitudinal and survival data with time-varying effects using P-splines.
 url_code: ""
 url_dataset: ""

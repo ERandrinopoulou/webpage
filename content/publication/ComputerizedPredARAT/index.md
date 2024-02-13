@@ -24,7 +24,7 @@ publication_types:
 publishDate: "21 January 2021"
 summary: '<i>Journal of neurology, neurosurgery, and psychiatry, 2021 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Computerised patient-specific prediction of the recovery profile of upper limb capacity within stroke services. The next step.
 url_code: ""
 url_dataset: ""

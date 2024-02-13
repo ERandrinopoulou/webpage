@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2 February 2021"
 summary: '<i>International Journal of Epidemiology, 2021 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Reflections on modern methods. Dynamic prediction using joint models of longitudinal and time-to-event data.
 url_code: ""
 url_dataset: ""

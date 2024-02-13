@@ -18,7 +18,7 @@ publication_types:
 publishDate: "21 May 2020"
 summary: '<i>Stat Methods Med Res, 2020 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Integrating Latent Classes in the Bayesian Shared Parameter Joint Model of Longitudinal and Survival Outcomes.
 url_code: ""
 url_dataset: ""

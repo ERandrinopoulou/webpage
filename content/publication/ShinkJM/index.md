@@ -16,7 +16,7 @@ publication_types:
 publishDate: "06 July 2016"
 summary: '<i>Statistics in Medicine, 2016 </i>'
 tags:
-- Source Themes
+#- Source Themes
 title: Bayesian shrinkage approach for a joint model of longitudinal and survival outcomes assuming different association structures.
 url_code: ""
 url_dataset: ""
