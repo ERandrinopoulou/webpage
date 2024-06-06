@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EnviroCF on ER Andrinopoulou</title>
+    <link>https://www.erandrinopoulou.com/tags/envirocf/</link>
+    <description>Recent content in EnviroCF on ER Andrinopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.erandrinopoulou.com/tags/envirocf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unveiling the Impact of Social and Environmental Determinants of Health on Lung Function Decline in Cystic Fibrosis through Data Integration using the US Registry</title>
+      <link>https://www.erandrinopoulou.com/project/envirocf/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/project/envirocf/</guid>
+      <description>&lt;p&gt;Active collaboration with Dr. Rhonda Szczesniak, Division of Biostatistics &amp;amp; Epidemiology, Cincinnati Children’s Hospital Medical Center, Department of Pediatrics, University of Cincinnati Children’s Hospital Medical Center, Division of Pulmonary Medicine, Cincinnati Children’s Hospital Medical Center and the Cystic Fibrosis Foundation.&lt;/p&gt;
+&lt;p&gt;Integrating different data resources provides a more comprehensive overview of patient information that could improve healthcare decision-making. In Cystic Fibrosis (CF), which is a genetic disorder affecting the lungs, biomarkers that track lung function decline serve as important predictors for assessing disease progression. Previous studies have shown that incorporating location-specific social and environmental determinants significantly improves the accuracy of disease progression prognostication. To explore the variability in rapid lung function decline among people with CF lung disease, we integrate patient registry data from the US Cystic Fibrosis Foundation with social and environmental health information. We focus on the relation between lung function and the community deprivation index. Our proposed methodology, an extension of multivariate mixed-effects models, models multiple longitudinal outcomes and incorporates varied functional forms to establish their connections. By examining different time periods, we investigate whether this relationship varies based on patients&amp;rsquo; exposure duration to areas with a high deprivation index. We explore this relationship within each state of the US. A strong association is observed between lung function and the area under the deprivation index curve across all states. Incorporating environmental and socioeconomic markers in clinical decision-making strategies can provide more insights into the progression of the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

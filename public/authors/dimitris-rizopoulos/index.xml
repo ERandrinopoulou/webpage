@@ -6,10 +6,28 @@
     <description>Recent content in Dimitris Rizopoulos on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.erandrinopoulou.com/authors/dimitris-rizopoulos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Efficiently analyzing large patient registries with Bayesian joint models for longitudinal and time-to-event data.</title>
+      <link>https://www.erandrinopoulou.com/publication/efficientlyjm/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/efficientlyjm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between changes in pulmonary function and in patient reported outcomes during enzyme therapy of adult patients with late-onset Pompe disease</title>
+      <link>https://www.erandrinopoulou.com/publication/associationspompe/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/associationspompe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computerised patient-specific prediction of the recovery profile of upper limb capacity within stroke services. The next step.</title>
@@ -26,6 +44,15 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.erandrinopoulou.com/publication/educationalcornerjmpred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian joint model for zero-inflated integers and left-truncated event times with a time-varying association. Applications to senior health care.</title>
+      <link>https://www.erandrinopoulou.com/publication/zeroinftimevarjm/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/zeroinftimevarjm/</guid>
       <description></description>
     </item>
     

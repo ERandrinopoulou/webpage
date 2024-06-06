@@ -12,7 +12,7 @@ links:
 summary: Cystic Fibrosis Foundation - best practices for the analysis of lung function consortium
 tags: 
 - CF
-title: Analysis of lung function decline 
+title: Investigate the natural progression and assessing the treatment effectiveness on lung function decline with the US Cystic Fibrosis Foundation Patient Registry
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

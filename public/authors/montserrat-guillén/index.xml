@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montserrat Guillén on ER Andrinopoulou</title>
+    <link>https://www.erandrinopoulou.com/authors/montserrat-guill%C3%A9n/</link>
+    <description>Recent content in Montserrat Guillén on ER Andrinopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.erandrinopoulou.com/authors/montserrat-guill%C3%A9n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bayesian joint model for zero-inflated integers and left-truncated event times with a time-varying association. Applications to senior health care.</title>
+      <link>https://www.erandrinopoulou.com/publication/zeroinftimevarjm/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/zeroinftimevarjm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

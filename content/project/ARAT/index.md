@@ -12,7 +12,7 @@ links:
 summary: Stroke recovery prediction consortium
 tags: 
 - ARAT
-title: "Dynamic prediction modelling of recovery in longitudinal stroke data"
+title: "Personalised dynamic prediction of the recovery profile of upper limb capacity within stroke services"
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

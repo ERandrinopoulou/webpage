@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Miranda Afonso on ER Andrinopoulou</title>
+    <link>https://www.erandrinopoulou.com/authors/pedro-miranda-afonso/</link>
+    <description>Recent content in Pedro Miranda Afonso on ER Andrinopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.erandrinopoulou.com/authors/pedro-miranda-afonso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficiently analyzing large patient registries with Bayesian joint models for longitudinal and time-to-event data.</title>
+      <link>https://www.erandrinopoulou.com/publication/efficientlyjm/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/efficientlyjm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
