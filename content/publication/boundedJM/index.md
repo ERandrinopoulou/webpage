@@ -20,7 +20,7 @@ publication_short: "Arxiv"
 publication_types: 
 - "2"
 publishDate: "26 May 2024"
-summary: '<i>Arxiv, 2023 </i>'
+summary: '<i>Arxiv, 2024 </i>'
 tags:
 #- Source Themes
 title: A joint model for (un)bounded longitudinal markers, competing risks, and recurrent events using patient registry data.
