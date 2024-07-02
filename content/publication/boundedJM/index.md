@@ -10,7 +10,7 @@ authors:
 - Rhonda D Szczesniak
 - admin
 date: "2024-05-26T00:00:00Z"
-doi: "	arXiv:2405.16492 "
+doi: "https://arxiv.org/pdf/2405.16492"
 featured: false
 
 
