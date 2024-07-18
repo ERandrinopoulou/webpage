@@ -28,18 +28,12 @@
   
     
   
-  <meta name="description" content=" Background: Integrating different data resources is a challenging task, but it provides a more comprehensive view of the patient information that could improve healthcare decision-making compared to relying solely on electronic health records. For example, in Cystic Fibrosis (CF), which is a genetic disorder mainly affecting the lungs, biomarkers that track lung function decline serve as important predictors for assessing disease progression and predicting hospitalization, transplantation, and mortality outcomes. It has been shown that including data sources incorporating location-specific social and environmental determinants significantly improves the accuracy of disease progression prognostication, particularly in characterizing lung function decline.
-
-Methods: Even though people with CF lung disease represent heterogeneous socioeconomic groups from different geographic regions, lung function decline could differ in these groups. To explore these disparities in the progression of lung disease, we integrate patient registry data from the US Cystic Fibrosis Foundation with information on social and environmental health. In particular, we focus on the relation between lung function, measured as forced expiratory volume in 1 s of % predicted (FEV1) and the community deprivation index, a marker derived from six variables of the American Community Survey. Given that both outcomes are time-dependent, our methodology is built upon an extension of multivariate mixed-effects models. This approach is designed to model multiple longitudinal outcomes, incorporating varied functional forms to establish their connections. We use the area under the deprivation index curve specified at different periods in the submodel of FEV1. Examining various periods would enable us to investigate whether this relationship differs based on the duration of patients’ exposure to areas with a high deprivation index. Additionally, considering the geographical variations in both lung function decline and community deprivation, we explore this relationship within each state of the US.
-
-Results: A strong association is observed between FEV1 and the area under the deprivation index curve across all states. The strength of this association diminishes when considering a two-year time window preceding the FEV1 measurement, as opposed to the patient’s entire medical history. Furthermore, we conducted a sensitivity analysis to explore different ways of linking these outcomes.
-
-Conclusion: Incorporating environmental and socioeconomic markers in clinical decision-making strategies is expected to provide more insights into the progression of the disease.
+  <meta name="description" content=" Joint models for longitudinal and survival data have become a popular framework for studying the association between repeatedly measured biomarkers and clinical events. Nevertheless, addressing complex data structures remains a challenge. In particular, even though many applications consist of recurrent and competing event times, those are commonly not analysed using a single model. Moreover, existing frameworks rely mainly on a Gaussian distribution for continuous markers, which may be unsuitable for bounded biomarkers, resulting in biased estimates of associations. To address these limitations, we propose a Bayesian shared parameter joint model that simultaneously accommodates multiple (possibly bounded) longitudinal markers, a recurrent event process, and competing risks. We use the beta distribution to model responses bounded within any interval without sacrificing the interpretability of the association. The model offers various forms of association, discontinuous risk intervals, and both gap and calendar timescales. We analyse the US Cystic Fibrosis Foundation Patient Registry to study the associations between changes in lung function and body mass index, and the risk of recurrent pulmonary exacerbations, while accounting for the competing risks of death and lung transplantation. Our comprehensive approach provides new insights into cystic fibrosis progression.
 
 ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://www.erandrinopoulou.com/talk/social-environmental-and-registry-data/">
+  <link rel="alternate" hreflang="en-us" href="https://www.erandrinopoulou.com/talk/bounded-competing-risks-recurrent-events-jm/">
 
   
 
@@ -104,7 +98,7 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://www.erandrinopoulou.com/talk/social-environmental-and-registry-data/">
+  <link rel="canonical" href="https://www.erandrinopoulou.com/talk/bounded-competing-risks-recurrent-events-jm/">
 
   
   
@@ -119,15 +113,9 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
   <meta property="twitter:creator" content="@@ERandrinopoulou">
   
   <meta property="og:site_name" content="ER Andrinopoulou">
-  <meta property="og:url" content="https://www.erandrinopoulou.com/talk/social-environmental-and-registry-data/">
-  <meta property="og:title" content="Unveiling the Impact of Social and Environmental Determinants of Health on Lung Function Decline in Cystic Fibrosis through Data Integration using the US Registry | ER Andrinopoulou">
-  <meta property="og:description" content=" Background: Integrating different data resources is a challenging task, but it provides a more comprehensive view of the patient information that could improve healthcare decision-making compared to relying solely on electronic health records. For example, in Cystic Fibrosis (CF), which is a genetic disorder mainly affecting the lungs, biomarkers that track lung function decline serve as important predictors for assessing disease progression and predicting hospitalization, transplantation, and mortality outcomes. It has been shown that including data sources incorporating location-specific social and environmental determinants significantly improves the accuracy of disease progression prognostication, particularly in characterizing lung function decline.
-
-Methods: Even though people with CF lung disease represent heterogeneous socioeconomic groups from different geographic regions, lung function decline could differ in these groups. To explore these disparities in the progression of lung disease, we integrate patient registry data from the US Cystic Fibrosis Foundation with information on social and environmental health. In particular, we focus on the relation between lung function, measured as forced expiratory volume in 1 s of % predicted (FEV1) and the community deprivation index, a marker derived from six variables of the American Community Survey. Given that both outcomes are time-dependent, our methodology is built upon an extension of multivariate mixed-effects models. This approach is designed to model multiple longitudinal outcomes, incorporating varied functional forms to establish their connections. We use the area under the deprivation index curve specified at different periods in the submodel of FEV1. Examining various periods would enable us to investigate whether this relationship differs based on the duration of patients’ exposure to areas with a high deprivation index. Additionally, considering the geographical variations in both lung function decline and community deprivation, we explore this relationship within each state of the US.
-
-Results: A strong association is observed between FEV1 and the area under the deprivation index curve across all states. The strength of this association diminishes when considering a two-year time window preceding the FEV1 measurement, as opposed to the patient’s entire medical history. Furthermore, we conducted a sensitivity analysis to explore different ways of linking these outcomes.
-
-Conclusion: Incorporating environmental and socioeconomic markers in clinical decision-making strategies is expected to provide more insights into the progression of the disease.
+  <meta property="og:url" content="https://www.erandrinopoulou.com/talk/bounded-competing-risks-recurrent-events-jm/">
+  <meta property="og:title" content="Joint Modeling of (Un)bounded Longitudinal Markers, Competing Risks, and Recurrent Events in Cystic Fibrosis Data | ER Andrinopoulou">
+  <meta property="og:description" content=" Joint models for longitudinal and survival data have become a popular framework for studying the association between repeatedly measured biomarkers and clinical events. Nevertheless, addressing complex data structures remains a challenge. In particular, even though many applications consist of recurrent and competing event times, those are commonly not analysed using a single model. Moreover, existing frameworks rely mainly on a Gaussian distribution for continuous markers, which may be unsuitable for bounded biomarkers, resulting in biased estimates of associations. To address these limitations, we propose a Bayesian shared parameter joint model that simultaneously accommodates multiple (possibly bounded) longitudinal markers, a recurrent event process, and competing risks. We use the beta distribution to model responses bounded within any interval without sacrificing the interpretability of the association. The model offers various forms of association, discontinuous risk intervals, and both gap and calendar timescales. We analyse the US Cystic Fibrosis Foundation Patient Registry to study the associations between changes in lung function and body mass index, and the risk of recurrent pulmonary exacerbations, while accounting for the competing risks of death and lung transplantation. Our comprehensive approach provides new insights into cystic fibrosis progression.
 
 "><meta property="og:image" content="https://www.erandrinopoulou.com/img/icon-192.png">
   <meta property="og:locale" content="en-us">
@@ -146,7 +134,7 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
 
 
 
-  <title>Unveiling the Impact of Social and Environmental Determinants of Health on Lung Function Decline in Cystic Fibrosis through Data Integration using the US Registry | ER Andrinopoulou</title>
+  <title>Joint Modeling of (Un)bounded Longitudinal Markers, Competing Risks, and Recurrent Events in Cystic Fibrosis Data | ER Andrinopoulou</title>
 
 </head>
 
@@ -485,7 +473,7 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Unveiling the Impact of Social and Environmental Determinants of Health on Lung Function Decline in Cystic Fibrosis through Data Integration using the US Registry</h1>
+  <h1 itemprop="name">Joint Modeling of (Un)bounded Longitudinal Markers, Competing Risks, and Recurrent Events in Cystic Fibrosis Data</h1>
 
   
 
@@ -520,35 +508,35 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Unveiling%20the%20Impact%20of%20Social%20and%20Environmental%20Determinants%20of%20Health%20on%20Lung%20Function%20Decline%20in%20Cystic%20Fibrosis%20through%20Data%20Integration%20using%20the%20US%20Registry&amp;url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fsocial-environmental-and-registry-data%2f"
+         href="https://twitter.com/intent/tweet?text=Joint%20Modeling%20of%20%28Un%29bounded%20Longitudinal%20Markers%2c%20Competing%20Risks%2c%20and%20Recurrent%20Events%20in%20Cystic%20Fibrosis%20Data&amp;url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fbounded-competing-risks-recurrent-events-jm%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fsocial-environmental-and-registry-data%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fbounded-competing-risks-recurrent-events-jm%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fsocial-environmental-and-registry-data%2f&amp;title=Unveiling%20the%20Impact%20of%20Social%20and%20Environmental%20Determinants%20of%20Health%20on%20Lung%20Function%20Decline%20in%20Cystic%20Fibrosis%20through%20Data%20Integration%20using%20the%20US%20Registry"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fbounded-competing-risks-recurrent-events-jm%2f&amp;title=Joint%20Modeling%20of%20%28Un%29bounded%20Longitudinal%20Markers%2c%20Competing%20Risks%2c%20and%20Recurrent%20Events%20in%20Cystic%20Fibrosis%20Data"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fsocial-environmental-and-registry-data%2f&amp;title=Unveiling%20the%20Impact%20of%20Social%20and%20Environmental%20Determinants%20of%20Health%20on%20Lung%20Function%20Decline%20in%20Cystic%20Fibrosis%20through%20Data%20Integration%20using%20the%20US%20Registry"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fbounded-competing-risks-recurrent-events-jm%2f&amp;title=Joint%20Modeling%20of%20%28Un%29bounded%20Longitudinal%20Markers%2c%20Competing%20Risks%2c%20and%20Recurrent%20Events%20in%20Cystic%20Fibrosis%20Data"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Unveiling%20the%20Impact%20of%20Social%20and%20Environmental%20Determinants%20of%20Health%20on%20Lung%20Function%20Decline%20in%20Cystic%20Fibrosis%20through%20Data%20Integration%20using%20the%20US%20Registry&amp;body=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fsocial-environmental-and-registry-data%2f">
+         href="mailto:?subject=Joint%20Modeling%20of%20%28Un%29bounded%20Longitudinal%20Markers%2c%20Competing%20Risks%2c%20and%20Recurrent%20Events%20in%20Cystic%20Fibrosis%20Data&amp;body=https%3a%2f%2fwww.erandrinopoulou.com%2ftalk%2fbounded-competing-risks-recurrent-events-jm%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -603,7 +591,7 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/talk/social-environmental-and-registry-data/geoMMM.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/talk/bounded-competing-risks-recurrent-events-jm/JMrec.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -625,11 +613,7 @@ Conclusion: Incorporating environmental and socioeconomic markers in clinical de
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text"><p>Background: Integrating different data resources is a challenging task, but it provides a more comprehensive view of the patient information that could improve healthcare decision-making compared to relying solely on electronic health records. For example, in Cystic Fibrosis (CF), which is a genetic disorder mainly affecting the lungs, biomarkers that track lung function decline serve as important predictors for assessing disease progression and predicting hospitalization, transplantation, and mortality outcomes. It has been shown that including data sources incorporating location-specific social and environmental determinants significantly improves the accuracy of disease progression prognostication, particularly in characterizing lung function decline.</p>
-<p>Methods: Even though people with CF lung disease represent heterogeneous socioeconomic groups from different geographic regions, lung function decline could differ in these groups. To explore these disparities in the progression of lung disease, we integrate patient registry data from the US Cystic Fibrosis Foundation with information on social and environmental health. In particular, we focus on the relation between lung function, measured as forced expiratory volume in 1 s of % predicted (FEV1) and the community deprivation index, a marker derived from six variables of the American Community Survey. Given that both outcomes are time-dependent, our methodology is built upon an extension of multivariate mixed-effects models. This approach is designed to model multiple longitudinal outcomes, incorporating varied functional forms to establish their connections. We use the area under the deprivation index curve specified at different periods in the submodel of FEV1. Examining various periods would enable us to investigate whether this relationship differs based on the duration of patients’ exposure to areas with a high deprivation index. Additionally, considering the geographical variations in both lung function decline and community deprivation, we explore this relationship within each state of the US.</p>
-<p>Results: A strong association is observed between FEV1 and the area under the deprivation index curve across all states. The strength of this association diminishes when considering a two-year time window preceding the FEV1 measurement, as opposed to the patient’s entire medical history. Furthermore, we conducted a sensitivity analysis to explore different ways of linking these outcomes.</p>
-<p>Conclusion: Incorporating environmental and socioeconomic markers in clinical decision-making strategies is expected to provide more insights into the progression of the disease.</p>
-</p>
+      <p class="pub-abstract" itemprop="text">Joint models for longitudinal and survival data have become a popular framework for studying the association between repeatedly measured biomarkers and clinical events. Nevertheless, addressing complex data structures remains a challenge. In particular, even though many applications consist of recurrent and competing event times, those are commonly not analysed using a single model. Moreover, existing frameworks rely mainly on a Gaussian distribution for continuous markers, which may be unsuitable for bounded biomarkers, resulting in biased estimates of associations. To address these limitations, we propose a Bayesian shared parameter joint model that simultaneously accommodates multiple (possibly bounded) longitudinal markers, a recurrent event process, and competing risks. We use the beta distribution to model responses bounded within any interval without sacrificing the interpretability of the association. The model offers various forms of association, discontinuous risk intervals, and both gap and calendar timescales. We analyse the US Cystic Fibrosis Foundation Patient Registry to study the associations between changes in lung function and body mass index, and the risk of recurrent pulmonary exacerbations, while accounting for the competing risks of death and lung transplantation. Our comprehensive approach provides new insights into cystic fibrosis progression.</p>
     
 
     <div class="row">
