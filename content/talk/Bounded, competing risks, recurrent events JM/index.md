@@ -30,7 +30,7 @@ featured: false
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-location: Online
+location: Thessaloniki, Greece
 # math: true
 # projects:
 # - internal-project
