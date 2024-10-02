@@ -11,8 +11,9 @@ title = "Teaching"
 subtitle = ""
 +++
 
-[Biostatistics I](https://www.nihes.com/course/ck020_biostatistics_i/)
+[Biostatistics I](https://www.nihes.com/course/ck020_biostatistics_i/) 
 
 [Biostatistics II](https://www.nihes.com/course/ck020_biostatistics_ii/)
 
-[Using R for Statistics in Medical Research](https://nerler.github.io/BST02/)
+Material can be found [here](https://erandrinopoulou.github.io/Biostatistics_course/)
+
