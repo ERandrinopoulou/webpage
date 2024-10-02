@@ -52,7 +52,7 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
   
 [[social]]
-  icon = "linkedin-square"
+  icon = "linkedin"
   icon_pack = "fab"
   link = "https://nl.linkedin.com/in/eleni-rosalina-andrinopoulou-9a795335"  
   
