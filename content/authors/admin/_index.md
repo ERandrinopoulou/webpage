@@ -57,11 +57,6 @@ interests = [
   link = "https://nl.linkedin.com/in/eleni-rosalina-andrinopoulou-9a795335"  
   
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/erandrinopoulou"
-  
-[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.nl/citations?user=IHPz_s0AAAAJ&hl=en"
