@@ -6,11 +6,11 @@ name = "Eleni-Rosalina Andrinopoulou"
 superuser = true
   
 # Role/position
-role = "Assistant professor in Biostatistics"
+role = "Statistic Director, Disease Strategy"
   
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Erasmus Medical Center Rotterdam", url = "" } ]
+organizations = [ { name = "GSK", url = "" } ]
   
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -74,4 +74,10 @@ interests = [
 #   link = "files/cv.pdf"
 +++
 
-I am an assistant professor in Biostatistics at Erasmus MC and my research interests involve the development of innovative methodology for gaining new insights in dynamically predicting and analysing big data by combining different sources of information, including environmental experiences, community characteristics (geomarkers), image and registry data.
+I am currently working as a Statistics Director in Disease Strategy at GSK.
+\
+\
+I was previously an Assistant Professor in Biostatistics at Erasmus MC, where my responsibilities included teaching fundamental statistical methods, offering statistical consulting to clinical collaborators and developing innovative methodologies for analyzing complex data.
+\
+\
+My research interests involve the development of innovative methodology for gaining new insights in dynamically predicting and analysing big data by combining different sources of information, including environmental experiences, community characteristics, image and registry data.
