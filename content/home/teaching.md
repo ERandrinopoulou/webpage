@@ -11,6 +11,8 @@ title = "Teaching"
 subtitle = ""
 +++
 
+In the past, I contributed to the instruction of the following courses:
+
 [Biostatistics I](https://www.nihes.com/course/ck020_biostatistics_i/) 
 
 [Biostatistics II](https://www.nihes.com/course/ck020_biostatistics_ii/)
