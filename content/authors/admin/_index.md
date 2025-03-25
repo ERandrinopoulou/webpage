@@ -6,7 +6,7 @@ name = "Eleni-Rosalina Andrinopoulou"
 superuser = true
   
 # Role/position
-role = "Statistic Director, Disease Strategy"
+role = "Statistics Director"
   
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -74,10 +74,13 @@ interests = [
 #   link = "files/cv.pdf"
 +++
 
-I am currently working as a Statistics Director in Disease Strategy at GSK.
+I am currently the **Statistics & Mathematical Modelling Director at GSK**, where I focus on statistical methodology and its application in disease strategy.
 \
 \
-I was previously an Assistant Professor in Biostatistics at Erasmus MC, where my responsibilities included teaching fundamental statistical methods, offering statistical consulting to clinical collaborators and developing innovative methodologies for analyzing complex data.
+Previously, I was an **Assistant Professor in Biostatistics at Erasmus MC**, where I taught fundamental statistical methods, provided statistical consulting to clinical collaborators, and developed innovative methodologies for analyzing complex data.
 \
 \
-My research interests involve the development of innovative methodology for gaining new insights in dynamically predicting and analysing big data by combining different sources of information, including environmental experiences, community characteristics, image and registry data.
+My research centers on developing **cutting-edge statistical methods** to dynamically predict and analyze large-scale data by integrating diverse sources, including environmental factors, community characteristics, imaging, and registry data, to generate novel insights.
+\
+\
+I am passionate about bridging the gap between statistics and healthcare innovation, and I welcome opportunities for collaboration.

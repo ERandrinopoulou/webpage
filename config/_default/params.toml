@@ -20,7 +20,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "@ERandrinopoulou"
+# twitter = "@ERandrinopoulou"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -53,9 +53,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "e.andrinopoulou@erasmusmc.nl"
+email = "er.andrinopoulou@gmail.com"
 phone = ""
-address = "Na 2811, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands"
+#address = "Na 2811, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
@@ -65,7 +65,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "@ERandrinopoulou", link = "https://twitter.com/erandrinopoulou?lang=en"},
+  #{icon = "twitter", icon_pack = "fab", name = "@ERandrinopoulou", link = "https://twitter.com/erandrinopoulou?lang=en"},
   {icon = "linkedin", icon_pack = "fab", name = "E.R. Andrinopoulou", link = "https://nl.linkedin.com/in/eleni-rosalina-andrinopoulou-9a795335"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
