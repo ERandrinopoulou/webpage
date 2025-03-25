@@ -1,7 +1,7 @@
 ---
 all_day: true
 #authors: []
-date: "2019-12-01"
+date: "2025-05-01"
 #date_end: "2018-06-12T15:00:00Z"
 #event: International Society for Clinical Biostatistics
 #event_url: https://example.org
@@ -26,7 +26,7 @@ title: Xu Wang
 #url_video: ""
 ---
 
-Xu Wang is a former PhD student working on the following project:
+Xu Wang is a former PhD student working on the following projects:
 
 ## Statistical primer: an introduction to the application of linear mixed-effects models in cardiothoracic surgery outcomes research-a case study using homograft pulmonary valve replacement data
 
