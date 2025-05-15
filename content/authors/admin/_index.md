@@ -74,10 +74,10 @@ interests = [
 #   link = "files/cv.pdf"
 +++
 
-I am currently a **Statistics & Mathematical Modelling Director at GSK**, where I focus on refining statistical methodologies and implementing predictive modelling to optimize disease strategy and healthcare outcomes.
+I am currently a **Statistics & Mathematical Modelling Director** at the **Statistics and Data Science Innovation Hub** at [GSK](https://www.gsk.com/en-gb/), where I focus on refining statistical methodologies to optimize disease strategy and healthcare outcomes.
 \
 \
-Previously, I was an **Assistant Professor in Biostatistics at Erasmus MC**, where I taught fundamental statistical methods, provided statistical consulting to clinical collaborators, and developed innovative methodologies for analyzing complex data.
+Previously, I was an **Assistant Professor in Biostatistics** at **Erasmus MC**, where I taught fundamental statistical methods, provided statistical consulting to clinical collaborators, and developed innovative methodologies for analyzing complex data.
 \
 \
 My research centers on developing **cutting-edge statistical methods** to dynamically predict and analyze large-scale data by integrating diverse sources, including environmental factors, community characteristics, imaging, and registry data, to generate novel insights.
