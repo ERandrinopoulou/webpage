@@ -23,6 +23,7 @@ This **R** package fits multivariate mixed effects models with association param
 
 - `mv_lme`: multivariate mixed effects models with association parameters
 - `DynPred_mv_lme`: dynamic individual predictions
+
 Install the package using the following code:
 
 `devtools::install_github("ERandrinopoulou/multiLME", dependencies = TRUE)`
