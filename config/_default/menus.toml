@@ -35,11 +35,18 @@
   name = "Teaching"
   url = "#teaching"
   weight = 6
-
+  
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 7
+  
 [[main]]
   name = "CV"
   url = "#cv"
-  weight = 7
+  weight = 8
+  
+
   
 [[main]]
   name = "Contact"
