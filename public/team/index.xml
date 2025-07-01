@@ -6,7 +6,7 @@
     <description>Recent content in Teams on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.erandrinopoulou.com/team/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Aglina Lika</title>
       <link>https://www.erandrinopoulou.com/team/aglina/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.erandrinopoulou.com/team/aglina/</guid>
       <description>&lt;p&gt;Aglina Lika is a PhD student working on the following projects:&lt;/p&gt;
@@ -28,7 +28,7 @@
     <item>
       <title>Pedro Afonso</title>
       <link>https://www.erandrinopoulou.com/team/pedro/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.erandrinopoulou.com/team/pedro/</guid>
       <description>&lt;p&gt;Pedro Afonso is a PhD student working on the following projects:&lt;/p&gt;
@@ -74,10 +74,10 @@ model is available in the R package JMbayes2.&lt;/p&gt;
     <item>
       <title>Xu Wang</title>
       <link>https://www.erandrinopoulou.com/team/xu/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://www.erandrinopoulou.com/team/xu/</guid>
-      <description>&lt;p&gt;Xu Wang is a former PhD student working on the following project:&lt;/p&gt;
+      <description>&lt;p&gt;Xu Wang is a former PhD student working on the following projects:&lt;/p&gt;
 &lt;h2 id=&#34;statistical-primer-an-introduction-to-the-application-of-linear-mixed-effects-models-in-cardiothoracic-surgery-outcomes-research-a-case-study-using-homograft-pulmonary-valve-replacement-data&#34;&gt;Statistical primer: an introduction to the application of linear mixed-effects models in cardiothoracic surgery outcomes research-a case study using homograft pulmonary valve replacement data&lt;/h2&gt;
 &lt;p&gt;Objectives: The emergence of big cardio-thoracic surgery datasets that include not only short-term and long-term discrete outcomes but also repeated measurements over time offers the opportunity to apply more advanced modelling of outcomes. This article presents a detailed introduction to developing and interpreting linear mixed-effects models for repeated measurements in the setting of cardiothoracic surgery outcomes research.&lt;/p&gt;
 &lt;p&gt;Methods: A retrospective dataset containing serial echocardiographic measurements in patients undergoing surgical pulmonary valve replacement from 1986 to 2017 in Erasmus MC was used to illustrate the steps of developing a linear mixed-effects model for clinician researchers.&lt;/p&gt;

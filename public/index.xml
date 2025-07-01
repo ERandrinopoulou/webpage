@@ -6,10 +6,28 @@
     <description>Recent content on ER Andrinopoulou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.erandrinopoulou.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teams</title>
+      <link>https://www.erandrinopoulou.com/team/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://www.erandrinopoulou.com/publication/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.erandrinopoulou.com/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
@@ -17,15 +35,6 @@
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://www.erandrinopoulou.com/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://www.erandrinopoulou.com/publication/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.erandrinopoulou.com/publication/</guid>
       <description></description>
     </item>
     
