@@ -53,7 +53,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "er.andrinopoulou@gmail.com"
+#email = "er.andrinopoulou@gmail.com"
 phone = ""
 #address = "Na 2811, Erasmus University Medical Center, Wytemaweg 80, 3015CN Rotterdam, the Netherlands"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
