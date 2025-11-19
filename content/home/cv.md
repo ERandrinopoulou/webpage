@@ -15,4 +15,4 @@ weight = 8
 
 +++
 
-My CV (including a full list of publications, presentations, collaborations and grants) is available in [PDF](cv/myCv.pdf) form. (Last updated: February 13, 2024)
+My CV (including a full list of publications, presentations, collaborations and grants) is available in [PDF](cv/myCv.pdf) form. (Last updated: November, 2025)
